@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html lang="sv">
+
+<!-- Mirrored from www.internetodontologi.se/radiologi/cbct-cone-beam-computed-tomography-tekniska-aspekter/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Jul 2024 11:59:36 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+
+    <title>CBCT (Cone Beam Computed Tomography): tekniska aspekter</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <link rel="preload" as="style" href="../../assets/built/screen419f.css?v=460d6bcda5" />
+    <link rel="preload" as="script" href="../../assets/built/casper419f.js?v=460d6bcda5" />
+
+    <link rel="stylesheet" type="text/css" href="../../assets/built/screen419f.css?v=460d6bcda5" />
+    <link rel="stylesheet" type="text/css" href="../../assets/built/print419f.css?v=460d6bcda5" media="print" />
+    <link rel="stylesheet" href="../../../cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+    <link rel="icon" href="../../content/images/size/w256h256/format/png/2023/09/IO-ny-sajt-logo-2-1.png" type="image/png">
+    <link rel="canonical" href="index.html">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+    <link rel="amphtml" href="amp/index.html">
+    
+    <meta property="og:site_name" content="Internetodontologi">
+    <meta property="og:type" content="article">
+    <meta property="og:title" content="CBCT (Cone Beam Computed Tomography): tekniska aspekter">
+    <meta property="og:description" content="BAKGRUND
+
+Den datortomografiska tekniken, Cone Beam Computed Tomography (CBCT), introducerades i de nordiska länderna i början av 2000-talet och har sedan dess fått en allt större spridning som diagnostiskt verktyg inom den specialiserade tandvården och då framförallt inom ämnesområdet odontologisk radiologi, men även hos allmäntandvårdens aktörer.
+
+I slutet av 2013">
+    <meta property="og:url" content="index.html">
+    <meta property="og:image" content="../../content/images/2024/01/IO-icon-png.png">
+    <meta property="article:published_time" content="2024-06-14T06:17:00.000Z">
+    <meta property="article:modified_time" content="2024-06-14T08:39:32.000Z">
+    <meta property="article:tag" content="Radiologi">
+    <meta property="article:tag" content="beam">
+    <meta property="article:tag" content="CBCT">
+    <meta property="article:tag" content="computed">
+    <meta property="article:tag" content="cone">
+    <meta property="article:tag" content="dator">
+    <meta property="article:tag" content="dt">
+    <meta property="article:tag" content="röntgen">
+    <meta property="article:tag" content="strålning">
+    <meta property="article:tag" content="tomografi">
+    <meta property="article:tag" content="tomography">
+    <meta property="article:tag" content="utredning">
+    
+    <meta property="article:publisher" content="https://www.facebook.com/Internetodontologi/?locale=sv_SE">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="CBCT (Cone Beam Computed Tomography): tekniska aspekter">
+    <meta name="twitter:description" content="BAKGRUND
+
+Den datortomografiska tekniken, Cone Beam Computed Tomography (CBCT), introducerades i de nordiska länderna i början av 2000-talet och har sedan dess fått en allt större spridning som diagnostiskt verktyg inom den specialiserade tandvården och då framförallt inom ämnesområdet odontologisk radiologi, men även hos allmäntandvårdens aktörer.
+
+I slutet av 2013">
+    <meta name="twitter:url" content="index.html">
+    <meta name="twitter:image" content="../../content/images/2023/09/Banner2.jpg">
+    <meta name="twitter:label1" content="Written by">
+    <meta name="twitter:data1" content="Lund Henrik • Övertandläkare • Docent • Avd för Oral och Maxillofacial radiologi • Institutionen för Odontologi • Sahlgrenska akademin Göteborgs Universitet • Göteborg">
+    <meta name="twitter:label2" content="Filed under">
+    <meta name="twitter:data2" content="Radiologi, beam, CBCT, computed, cone, dator, dt, röntgen, strålning, tomografi, tomography, utredning">
+    <meta name="twitter:site" content="@ghost">
+    <meta property="og:image:width" content="500">
+    <meta property="og:image:height" content="500">
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Internetodontologi",
+        "url": "https://www.internetodontologi.se/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.internetodontologi.se/content/images/2023/12/IO-logo-slogan-vit-webp.webp"
+        }
+    },
+    "author": {
+        "@type": "Person",
+        "name": "Lund Henrik • Övertandläkare • Docent • Avd för Oral och Maxillofacial radiologi • Institutionen för Odontologi • Sahlgrenska akademin Göteborgs Universitet • Göteborg",
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://secure.gravatar.com/avatar/52fc1e8773aeae42c89d9ce646827702?s=512&d=mm&r=g",
+            "width": 512,
+            "height": 512
+        },
+        "url": "https://www.internetodontologi.se/forfattare/henrik-lund/",
+        "sameAs": []
+    },
+    "headline": "CBCT (Cone Beam Computed Tomography): tekniska aspekter",
+    "url": "https://www.internetodontologi.se/radiologi/cbct-cone-beam-computed-tomography-tekniska-aspekter/",
+    "datePublished": "2024-06-14T06:17:00.000Z",
+    "dateModified": "2024-06-14T08:39:32.000Z",
+    "keywords": "Radiologi, beam, CBCT, computed, cone, dator, dt, röntgen, strålning, tomografi, tomography, utredning",
+    "description": "BAKGRUND\n\nDen datortomografiska tekniken, Cone Beam Computed Tomography (CBCT), introducerades i de nordiska länderna i början av 2000-talet och har sedan dess fått en allt större spridning som diagnostiskt verktyg inom den specialiserade tandvården och då framförallt inom ämnesområdet odontologisk radiologi, men även hos allmäntandvårdens aktörer.\n\nI slutet av 2013 var 63 kliniker registrerade som användare/tillståndsinnehavare för CBCT-utrustning enligt SSM (Strålsäkerhetsmyndigheten). Sedan d",
+    "mainEntityOfPage": "https://www.internetodontologi.se/radiologi/cbct-cone-beam-computed-tomography-tekniska-aspekter/"
+}
+    </script>
+
+    <meta name="generator" content="Ghost 5.87">
+    <link rel="alternate" type="application/rss+xml" title="Internetodontologi" href="../../faktablad/rss/index.html">
+    <script defer src="../../../cdn.jsdelivr.net/ghost/portal%40_2.37/umd/portal.min.js" data-i18n="true" data-ghost="https://www.internetodontologi.se/" data-key="a9992010fae38671dbba82f7cf" data-api="https://beta-internetodontologi.ghost.io/ghost/api/content/" crossorigin="anonymous"></script><style id="gh-members-styles">.gh-post-upgrade-cta-content,
+.gh-post-upgrade-cta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    width: 100%;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.gh-post-upgrade-cta-content {
+    border-radius: 8px;
+    padding: 40px 4vw;
+}
+
+.gh-post-upgrade-cta h2 {
+    color: #ffffff;
+    font-size: 28px;
+    letter-spacing: -0.2px;
+    margin: 0;
+    padding: 0;
+}
+
+.gh-post-upgrade-cta p {
+    margin: 20px 0 0;
+    padding: 0;
+}
+
+.gh-post-upgrade-cta small {
+    font-size: 16px;
+    letter-spacing: -0.2px;
+}
+
+.gh-post-upgrade-cta a {
+    color: #ffffff;
+    cursor: pointer;
+    font-weight: 500;
+    box-shadow: none;
+    text-decoration: underline;
+}
+
+.gh-post-upgrade-cta a:hover {
+    color: #ffffff;
+    opacity: 0.8;
+    box-shadow: none;
+    text-decoration: underline;
+}
+
+.gh-post-upgrade-cta a.gh-btn {
+    display: block;
+    background: #ffffff;
+    text-decoration: none;
+    margin: 28px 0 0;
+    padding: 8px 18px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.gh-post-upgrade-cta a.gh-btn:hover {
+    opacity: 0.92;
+}</style><script async src="https://js.stripe.com/v3/"></script>
+    <script defer src="../../../cdn.jsdelivr.net/ghost/sodo-search%40_1.1/umd/sodo-search.min.js" data-key="a9992010fae38671dbba82f7cf" data-styles="https://cdn.jsdelivr.net/ghost/sodo-search@~1.1/umd/main.css" data-sodo-search="https://beta-internetodontologi.ghost.io/" crossorigin="anonymous"></script>
+    
+    <link href="../../webmentions/receive/index.html" rel="webmention">
+    <script defer src="../../public/cards.min419f.js?v=460d6bcda5"></script>
+    <link rel="stylesheet" type="text/css" href="../../public/cards.min419f.css?v=460d6bcda5">
+    <script defer src="../../public/member-attribution.min419f.js?v=460d6bcda5"></script><style>:root {--ghost-accent-color: #0e5085;}</style>
+    <script>
+  document.addEventListener('contextmenu', function(e) {
+    e.preventDefault(); // Prevents right-click menu
+  }, false);
+
+  document.addEventListener('keydown', function(e) {
+    // Check for Ctrl or Cmd key along with C
+    if ((e.ctrlKey || e.metaKey) && e.keyCode === 67) {
+      e.preventDefault(); // Prevents Ctrl+C or Cmd+C
+    }
+    // Check for Ctrl or Cmd key along with P
+    if ((e.ctrlKey || e.metaKey) && e.keyCode === 80) {
+      e.preventDefault(); // Prevents Ctrl+P or Cmd+P
+    }
+  }, false);
+</script>
+
+<script src="../../../cdn.usefathom.com/script.js" data-site="JFFQRRKB" defer>
+</script>
+
+</head>
+<body class="post-template tag-radiologi tag-beam tag-cbct tag-computed tag-cone tag-dator tag-dt tag-rontgen tag-stralning tag-tomografi tag-tomography tag-utredning tag-premium-2 is-head-left-logo has-sans-body has-cover">
+<div class="viewport">
+
+    <header id="gh-head" class="gh-head outer">
+        <div class="gh-head-inner inner">
+            <div class="gh-head-brand">
+                <a class="gh-head-logo" href="../../index.html">
+                        <img src="../../content/images/2023/12/IO-logo-slogan-vit-webp.webp" alt="Internetodontologi">
+                </a>
+                <button class="gh-search gh-icon-btn" aria-label="Sök" data-ghost-search><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg></button>
+                <button class="gh-burger"></button>
+            </div>
+
+            <nav class="gh-head-menu">
+                <div class="my-fancy-nav-wrapper">
+    <ul class="nav">
+        <li class="nav-hem"><a href="../../index.html">Hem</a>
+        </li>
+        <li class="nav-om-oss"><a href="../../about/index.html">Om oss</a>
+        </li>
+        <li class="nav-prenumeration"><a href="../../prenumeration/index.html">Prenumeration</a>
+        </li>
+        <li class="nav-alla-faktablad"><a href="../../faktablad/index.html">Alla faktablad</a>
+        </li>
+        <li class="nav-vetenskapliga-radet"><a href="../../vetenskapligt-rad/index.html">Vetenskapliga rådet</a>
+        </li>
+        <li class="nav-alla-forfattare"><a href="../../forfattare/index.html">Alla författare</a>
+        </li>
+        <li class="nav-facebook"><a href="https://www.facebook.com/Internetodontologi?locale=sv_SE">Facebook</a>
+        </li>
+        <li class="nav-instagram"><a href="https://www.instagram.com/internetodontologi/">Instagram</a>
+        </li>
+        <li class="nav-linkedin"><a href="https://www.linkedin.com/company/internetodontologi-se/?originalSubdomain=se">LinkedIn</a>
+        </li>
+    </ul>
+</div>
+
+            </nav>
+
+            <div class="gh-head-actions">
+                    <button class="gh-search gh-icon-btn" aria-label="Sök" data-ghost-search><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" width="20" height="20"><path stroke-linecap="round" stroke-linejoin="round" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg></button>
+                    <div class="gh-head-members">
+                                <a href="../../signin/index.html"><p class="gh-head-link">Logga in</p></a>
+                                <a class="gh-head-button" href="../../signup/index.html">Skapa konto</a>
+                    </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="site-content">
+        
+
+
+<main id="site-main" class="site-main">
+<article class="article post tag-radiologi tag-beam tag-cbct tag-computed tag-cone tag-dator tag-dt tag-rontgen tag-stralning tag-tomografi tag-tomography tag-utredning tag-premium-2 no-image ">
+    
+    <header class="article-header gh-canvas">
+        <div class="article-tag post-card-tags">
+                <span class="post-card-primary-tag">
+                    <a href="../../faktablad/index.html">Alla faktablad / </a><a style="color: #72a6b4;" href="../index.html"> Radiologi</a>
+                </span>
+        </div>
+
+        <h1 id="CBCT (Cone Beam Computed Tomography): tekniska aspekter" class="article-title">CBCT (Cone Beam Computed Tomography): tekniska aspekter</h1>
+
+
+        <div class="article-byline">
+        <section class="article-byline-content">
+
+           <!--<ul class="author-list">
+                <li class="author-list-item">
+                    <a href="/forfattare/henrik-lund/" class="author-avatar">
+                        <img class="author-profile-image" src="https://secure.gravatar.com/avatar/52fc1e8773aeae42c89d9ce646827702?s&#x3D;512&amp;d&#x3D;mm&amp;r&#x3D;g" alt="Lund Henrik • Övertandläkare • Docent • Avd för Oral och Maxillofacial radiologi • Institutionen för Odontologi • Sahlgrenska akademin Göteborgs Universitet • Göteborg" />
+                    </a>
+                </li>
+                <li class="author-list-item">
+                    <a href="/forfattare/kristina-hellen-halme/" class="author-avatar">
+                        <img class="author-profile-image" src="https://secure.gravatar.com/avatar/3f91d27d834490a21aa1adfc3942b7ec?s&#x3D;512&amp;d&#x3D;mm&amp;r&#x3D;g" alt="Hellén-Halme Kristina • Övertandläkare • Professor i Odontologisk röntgendiagnostik • Avd för Oral och Maxillofacial Radiologi • Malmö" />
+                    </a>
+                </li>
+            </ul> -->
+
+            <div class="article-byline-meta">
+                <div class="author-container">
+                    <span class="author-name">Författat av:</span>
+                    <span class="author-name"><a href="../../forfattare/henrik-lund/index.html">Lund Henrik • Övertandläkare • Docent • Avd för Oral och Maxillofacial radiologi • Institutionen för Odontologi • Sahlgrenska akademin Göteborgs Universitet • Göteborg</a></span>
+                </div>
+                <div class="author-container">
+                    <span class="author-name">Granskat av:</span>
+                    <span class="author-name"><a href="../../forfattare/kristina-hellen-halme/index.html">Hellén-Halme Kristina • Övertandläkare • Professor i Odontologisk röntgendiagnostik • Avd för Oral och Maxillofacial Radiologi • Malmö</a></span>
+                </div>
+                <div class="author-container">
+                </div>
+                <div class="post-meta">
+                    <time class="update" datetime="2024-06-14">Uppdaterat: 14 jun 2024</time>
+                        <span class="reading-time">9 min lästid</span>
+                    
+                </div>
+            </div>
+        </section>
+        </div>
+
+    </header>
+    
+
+    <section class="gh-content gh-canvas">
+        <div class="sidebar-sticky">
+            
+<div class="side-navigation">
+    <span class="side-navigation-title">Faktabladets innehåll</span>
+    <ul id="table-of-contents"></ul>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const toc = document.getElementById("table-of-contents");
+    const contentSection = document.querySelector(".gh-content.gh-canvas");
+    const headings = contentSection.querySelectorAll("h2, h3"); // Target both h2 and h3
+
+    // Calculate the offset for the header (adjust this value as needed)
+    const headerOffset = 170; // You can change this value
+
+    let lastH2Index = -1;
+
+    headings.forEach((heading, index) => {
+      const anchorId = `section-${index + 1}`;
+      heading.setAttribute("id", anchorId);
+
+      const listItem = document.createElement("li");
+      const anchor = document.createElement("a");
+      anchor.setAttribute("href", `#${anchorId}`);
+      anchor.textContent = heading.textContent;
+
+      // Check if the current heading is an h3 and set an increased left margin
+      if (heading.tagName === "H3") {
+        listItem.style.marginLeft = "10px"; // Adjust the indentation as needed
+      }
+
+      // Check if the current heading is an h2 and set an increased font weight
+      if (heading.tagName === "H2") {
+        listItem.style.fontWeight = "500";
+      }
+
+      listItem.appendChild(anchor);
+      toc.appendChild(listItem);
+
+      // Scroll to the anchor with an offset when the link is clicked
+      anchor.addEventListener("click", function (e) {
+        e.preventDefault();
+        const target = document.getElementById(anchorId);
+        if (target) {
+          const offsetTop = target.getBoundingClientRect().top + window.scrollY;
+          window.scrollTo({
+            top: offsetTop - headerOffset, // Apply the offset here
+            behavior: "smooth", // Smooth scrolling
+          });
+        }
+      });
+
+      // Keep track of the last h2 index for indenting h3 elements
+      if (heading.tagName === "H2") {
+        lastH2Index = index;
+      }
+    });
+  });
+</script>        </div>
+        <div class="content">
+           <section class="post-ad">
+                <div class="post-card-content-ad">
+                    <div class="post-card-content-link">
+                        <header class="post-card-header">
+                            <div class="tag-ad-mobile">
+                                <div class="ad-note">Annons</div>
+                                <script data-adfscript="adx.adform.net/adx/?mid=1853955"></script>
+                                <script src="../../../s1.adform.net/banners/scripts/adx.js" async defer></script>
+                            </div>
+                            <div class="tag-ad-desktop">
+                                <div class="ad-note">Annons</div>
+                                <script data-adfscript="adx.adform.net/adx/?mid=1853954"></script>
+                                <script src="../../../s1.adform.net/banners/scripts/adx.js" async defer></script>
+                            </div>
+                        </header>
+                    </div>
+                </div>
+            </section>
+                    <div class="overlay">
+                        <div class="overlay-box">
+                            <div class="overlay-content">
+                                    <div class="overlay-header"> 
+                                        <span>Logga in för att läsa faktabladet!</span>
+                                    </div>
+                                        <ul class="features">
+                                            <li><i class="fas fa-check"></i> Att skapa konto är kostnadsfritt!</li>
+                                            <li><i class="fas fa-check"></i> Du förbinder inte dig till någon betalning</li>
+                                            <li><i class="fas fa-check"></i> De flesta faktablad kräver en prenumeration som kan köpas separat efter du skapat konto hos oss.</li>
+                                        </ul>
+                                        <div class="overlay-box-btn-container">
+                                            <a href="../../signup/index.html">
+                                            <button class="overlay-btn">Skapa konto</button>
+                                            </a>
+                                            <span class="or">eller</span>
+                                            <a href="../../signin/index.html">
+                                            <button class="overlay-btn">Logga in</button>
+                                            </a>
+                                        </div>
+                                    <div class="overlay-policy">
+                                        Genom att skapa konto accepterar du våra <a href="../../integritetspolicy/index.html">Integritetspolicy</a> och <a href="../../allmanna-villkor/index.html">Allmänna villkor.</a>
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+
+                <script>
+                window.addEventListener('DOMContentLoaded', (event) => {
+                    setTimeout(() => {
+                        const overlay = document.querySelector('.overlay');
+                        overlay.style.opacity = '1'; // Set to 1 so it becomes visible immediately
+
+                        window.addEventListener('scroll', () => {
+                            let scrollPosition = window.scrollY;
+                            let windowHeight = window.innerHeight;
+                            let documentHeight = document.documentElement.scrollHeight;
+
+                            let scrollPercentage = scrollPosition / (documentHeight - windowHeight);
+                            overlay.style.opacity = scrollPercentage * 10; // Adjusting the opacity based on scroll
+                        });
+                    }, 1500); // Overlay appears after 1.5 seconds
+                });
+                </script>
+            <div>
+                <a href="#"><button class="feedback-btn">Ge synpunkter på faktabladet!</button></a>
+                    <script>
+                        document.addEventListener("DOMContentLoaded", function() {
+                        // Retrieve the anchor element by its class or any other identifying property
+                        var feedbackButton = document.querySelector('.feedback-btn').parentNode;
+
+                        if (feedbackButton) {
+                            // Encode the document title or any other dynamic data you want to use
+                            var encodedTitle = encodeURIComponent(document.title);
+
+                            // Update the href attribute, inserting the encoded title
+                            feedbackButton.href = `https://docs.google.com/forms/d/e/1FAIpQLSewwCf6Eer0xkajSaP3057aT15GZ8pkGQwThjIdOLnx7ivHJw/viewform?usp=pp_url&entry.1283338480=${encodedTitle}`;
+                        }
+                    });
+                    </script>
+            </div>
+        <p></p><h2 id="bakgrund"><strong>BAKGRUND</strong></h2><p>Den datortomografiska tekniken, <em>Cone Beam Computed Tomography (CBCT)</em>, introducerades i de nordiska länderna i början av 2000-talet och har sedan dess fått en allt större spridning som diagnostiskt verktyg inom den specialiserade tandvården och då framförallt inom ämnesområdet odontologisk radiologi, men även hos allmäntandvårdens aktörer.</p><p>I slutet av 2013 var 63 kliniker registrerade som användare/tillståndsinnehavare för CBCT-utrustning enligt SSM (Strålsäkerhetsmyndigheten). Sedan dess har antalet tillståndshavare nästan fördubblats. Utbudet av flerfunktionella utrustningar, där panoramaröntgen kompletteras med CBCT-funktionalitet, har lett till en spridning av tekniken. Idag finns grovt räknat 300 olika modeller, och merparten utgörs av&nbsp;flerfunktionella utrustningar.</p><p>Tekniken utvecklades i början av 1990-talet och bygger på samma grundläggande principer som konventionell datortomografi, men där databearbetningen anpassats till ett koniskt format strålknippe. Det var dock först under 90-talets senare del som utvecklingen tog ett steg mot de maskiner vi ser idag, mycket beroende på dåtidens framsteg inom datavetenskap, med kraftfullare datorer och mjukvara som kunde hantera den stora mängd data som genereras vid avbildning.</p><div class="kg-card kg-product-card">
+            <div class="kg-product-card-container">
+                <img src="../../content/images/2024/06/210858_egcGpCNbS4yn6Ou0OKep_CA-RUIDI-Kursbild-2.jpg" width="1577" height="879" class="kg-product-card-image" loading="lazy">
+                <div class="kg-product-card-title-container">
+                    <h4 class="kg-product-card-title"><span style="white-space: pre-wrap;">Indikationer samt diagnostik i CBCT</span></h4>
+                </div>
+                
+
+                <div class="kg-product-card-description"></div>
+                
+                    <a href="https://www.tandakademin.se/courses/indikationer-samt-diagnostik-i-cbct?utm_source=IO-annons" class="kg-product-card-button kg-product-card-btn-accent" target="_blank" rel="noopener noreferrer"><span>Se kursen på Tandakademin!</span></a>
+                
+            </div>
+        </div><h2 id="tekniken"><strong>TEKNIKEN</strong></h2><p>Principen för avbildning bygger på att ett kon- eller pyramidformat strålfält utgående från röntgenröret, roterar i en cirkel- eller halvcirkelformad bana runt patienten med centrum beläget antingen i medellinjen, eller inom området av diagnostiskt intresse, och en detektor på motsatta sidan av röntgenröret registrerar den röntgenstrålning som passerat patienten (Figur 1).</p><p></p><figure class="kg-card kg-image-card"><img src="https://lh7-eu.googleusercontent.com/IdIv2NnNxpraapXp8rvzGZMsIWg7lsiMK_l7_t36m0p8zXt_9ubrBThUBJf28zML8GqAe0wqfAoNoSjDtCcAo_1EbVJNDupzZVuJ7KPLHEZ50DeX2QI9CBnZcUu9ATPBsjb6wsVswxUO" class="kg-image" alt="" loading="lazy" width="500" height="375"></figure><p>Figur 1. Projektionsgeometri CBCT-teknik</p><p>I samband med rotationen skapas ett stort antal projektioner och ur dessa framställs en digital volym från vilken bilder rekonstrueras i tre mot varandra vinkelräta plan; axiala, coronala (frontala) och sagittala (Figur 2).</p><p></p><figure class="kg-card kg-image-card"><img src="https://lh7-eu.googleusercontent.com/fKDHK-ROeYmcsjCiduzWyPulN_aIw8PGnDcr6XVR1s7mOzh5apAjlo1A0b9NocEwCWIlZD_GAiI5zSDOcmHVoeO80AE2Jdc2hww8kYwy0LF5w70t9eOw5PYTPTJLyO2wmxurqAR-R3GS" class="kg-image" alt="" loading="lazy" width="500" height="375"></figure><p>Figur 2. CBCT-volymsdata ur vilken axiala, frontala och sagittala bilder rekonstrueras</p><p>Projektionsgeometrin och principerna för avbildning av en volym skiljer sig mot konventionell datortomografi (CT) där istället enstaka tunna snitt, vanligen i axialplan, avbildas med hjälp av smalt, solfjäderformat strålknippe och där de enstaka snitten sedan sammanfogas för att bilda volymsdata (Figur 3).</p><p></p><figure class="kg-card kg-image-card"><img src="https://lh7-eu.googleusercontent.com/Me8srZwzEsPo2-zSVDBfB8659k2IyIe4cJZgqmpKLvNRyywHHj8-kgAVjk5ZePf21Pnt9YHxsYeV7u66rxKwnIr5faC5asaCjCtm5XKFaPNsbF2oOmbQMv3HJg28vIIdOWi2G6KL3rZI" class="kg-image" alt="" loading="lazy" width="500" height="375"></figure><p>Figur 3. Konventionell datortomografi -axiala snitt sammanfogas till volym</p><p>&nbsp;</p><h2 id="utrustning"><strong>UTRUSTNING</strong></h2><p>Cone beam computed tomography (CBCT) utgör idag det allmänt accepterade namnet och är den term som sammanfattar tekniken. Variationen mellan olika fabrikat är dock stor även om dessa går under samma benämning.</p><h3 id="cbct-utrustning-kan-skilja-sig-%C3%A5t-p%C3%A5-f%C3%B6ljande-punkter"><strong>CBCT-utrustning kan skilja sig åt på följande punkter:</strong></h3><p></p><ul><li>Patientens position vid avbildning (stående, sittande och liggande position)<ul><li>Tidig CBCT-utrustning var avsedd för undersökning av sittande eller liggande patient. Under senare år har antalet utrustningar där patienten undersöks i stående position ökat i omfattning, vilket sannolikt kan kopplas till en ökad utveckling av flerfunktionell utrustning, där panorama kombineras med en detektor för CBCT-tekniken.</li></ul></li><li>Avbildningsvolym, eller FOV (Field-of-view)<ul><li>Allt från små volymer (t ex 40×40 mm) avsedda för det dento-alveolära området, till stora volymer (t ex 170×120 mm) som kan avbilda hela ansiktsskelettet. Idag förekommer även utrustning med avbildningsvolym som är triangulär, formad efter käken s.k <em>rouleaux</em>. Tidig utrustning var avsedd för avbildning med antingen små eller stora volymer. Idag finns större variation, och det finns ofta en stor mängd kombinationer av olika avbildningsvolymer. Viss utrustning/modeller kan även sammanfoga flera små volymer till en större <em>stitching.&nbsp;</em>&nbsp;</li></ul></li><li>Exponeringsparametrar (kV, mA och exponeringstid)<ul><li>Skillnader i för utrustningen optimerade exponeringsparametrar, där viss utrustning har fasta inställningar och/eller använder högre kV och mA medan andra medger anpassade inställningar.</li><li>Det finns vanligen även utökade protokoll för val av rotation (180 eller 360 grader), samt särskilda protokoll för ökad upplösning eller reduktion av artefakter (störningar från metall etc). Protokollen påverkar vanligen exponeringstiden, vilket i sin tur påverkar dosen till patienten, och patientens förmåga att genomföra undersökningen utan rörelse. Exponeringstiden kan variera mellan ca 5–30 s beroende på utrustning och/eller parameterval.</li></ul></li></ul><h3 id="bildmottagaren-detektorn-och-systemets-uppl%C3%B6sning"><strong>Bildmottagaren (detektorn) och systemets upplösning</strong></h3><p>För att kunna visualisera röntgenstrålningens attenuering (försvagning), när den passerar genom ett objekt, krävs en bildmottagare, vilken i CBCT vanligen består av en FPD (Flat Panel Detector) baserad på CMOS-teknik (Complementary Metal Oxide Semiconductor) som omvandlar infallande röntgenstrålning till en elektrisk potential. Detektorn består av ett rutnät, en s k matris, av bildelement (pixlar) där varje enskild pixel ger ett värde för graden av svärtning. I datortomografiska tekniker som CBCT rekonstrueras signalen från detektorn till volymselement, eller voxlar, som är pixelns tredimensionella motsvarighet (Figur 4).</p><p></p><figure class="kg-card kg-image-card"><img src="https://lh7-eu.googleusercontent.com/Dkvoj_p-t9VQkiCK6CwJpzPm0GeF7Fb5DJjLgAwdfbuXFlIcFI9cFxRB1ybw1PpXJeloxsdHSjU-xrdjy5GyO7DiPtYGVeNNa9WJnjZ0rJ7S57WOPwHPb4nA7nkkTfim8AFSLNW4mZUR" class="kg-image" alt="" loading="lazy" width="500" height="375"></figure><p>Figur 4. CBCT-bild uppbyggd av kubiska bildelement (voxlar)</p><p>Såväl upplösning som kontrast är viktiga egenskaper för att möjliggöra en god diagnostik.God upplösning innebär många bildelement (pixel/voxel) inom en bestämd area, och bra kontrast att varje bildelement kan anta många gråskalevärden.</p><p>Således är det framförallt två faktorer som påverkar systemets upplösning:</p><p></p><ul><li>voxelstorlek</li><li>gray scale bit depth (svenska: bitdjup)</li></ul><h3 id="voxelstorlek"><strong>Voxelstorlek</strong></h3><p>CBCT använder sig vanligen av kubiska, eller isotropiska, voxlar där alla sidor är lika stora. Voxlar kan även vara icke-kubiska, eller anisotropiska, vilket är vanligt vid konventionell datortomografi (CT).</p><p>Liten voxelstorlek ger större upplösning då fler bildgivande volymselement ryms inom en bestämd area. För CBCT-tekniken är storleken på voxeln beroende av pixelstorleken hos detektorn, medan den för konventionell datortomografi (CT) är beroende av snittjocklek (slice thickness). Idag finns CBCT-utrustning som kan rekonstruera en voxelstorlek på 0,08 mm. En liten voxelstorlek leder dock till att en mindre mängd röntgenstrålning påverkar dess uppbyggnad, vilket i sin tur leder till mer brus (noise) i bilden, vilket i sin tur kan minskas genom att öka exponeringen och därmed stråldosen till patienten.</p><h3 id="bitdjup"><strong>Bitdjup</strong></h3><p>Bitdjup (Gray scale bit depth) anger antalet gråskalevärden varje enskild voxel kan presentera, det s k bitdjupet. Datasystemen kommunicerar gråskalevärdet i binär form som kombinationer av talen 0 och 1 där 0 innebär vitt och 1 innebär svart. CBCT använder vanligen ett bitdjup mellan 12- till 16-bit, vilket innebär att varje enskild voxel kan presentera 4096 (212) till 65 536 (216) olika gråskalevärden beroende på attenueringen av infallande röntgenstrålning (Figur 5).</p><p></p><figure class="kg-card kg-image-card"><img src="https://lh7-eu.googleusercontent.com/kgxx_mnx3QPCHAXxkBKOlu52CX2gnt-E-ATB7C0ZyEYcgJhFgDL5AxOv1HsulUQQkNeFMlMSei1df1wck5Skb_vEJxk4j1n8IPKncbJ9b3szWwMjeGCfCMX6jDqdeHKlOEU3V5la238E" class="kg-image" alt="" loading="lazy" width="500" height="375"></figure><p>Figur 5. CBCT-bild där varje enskilt bildelement (voxel) kan anta en variation av gråskalevärden</p><p>Bitdjupets betydelse för systemets upplösning kan exemplifieras med en 1-bit-bild (Figur 6) där varje enskild voxel endast presenterar vitt eller svart och därmed exkluderar skillnaden i attenuering mellan olika vävnader beroende på dess densitet.</p><p></p><figure class="kg-card kg-image-card"><img src="https://lh7-eu.googleusercontent.com/hAMyb-_BHRupvJeBnToCc-1VG5S3VcnUJhnso6sr7MK584oL0rc6_25GQz0rALf8MwewfQ5LvGR17v1tjgnYZ6Fs6-t9Sw9U8e77OwZFzDeST-81YrbRtBqxefRw0TXomNA3YvFQRUo7" class="kg-image" alt="" loading="lazy" width="500" height="375"></figure><p>Figur 6. Exemplifiering av 1-bit CBCT-bild där varje enskilt bildelement endast antar ett gråskalevärde</p><h3 id="partial-volume-averaging"><strong>Partial volume averaging</strong></h3><p>Eftersom varje enskild voxel endast kan presentera ett gråskalevärde baserat på attenueringen, innebär detta att om voxeln befinner sig i en gränszon mellan ett hög- och ett lågkontrasterande område (med andra ord; inom voxelns avbildningsområde finns materia med såväl hög som låg densitet), så kommer voxeln att presentera ett medelvärde av de båda. I praktiken kan detta innebära att t ex tunna benstråk som är belägna nära luft eller mjukvävnad får ett gråskalevärde där signalen från mjukvävnaden tar överhand, och därmed släcker ut signalen från det tunna benet.</p><p></p><h2 id="artefakter"><strong>ARTEFAKTER</strong></h2><p>Artefakter, eller störningar, i erhållet bildmaterial kan delas in i följande huvudgrupper:</p><p></p><ul><li>Utrustnings-/teknikrelaterade</li><li>Bildinfångst-/rekonstruktionsrelaterade</li><li>Objekt(patient) relaterade</li></ul><h3 id="utrustnings-teknikrelaterade"><strong>Utrustnings-/teknikrelaterade</strong></h3><p>Artefakter som beror på antingen mekaniska komponenter/projektionsgeometrin eller bildmottagaren/detektorn.</p><p></p><ul><li>Ring artefacts (svenska: ringartefakter) Visar sig som cirkulära, ljusare stråk i bildmaterialet och beror vanligen på att bildmottagaren (detektorn) är felaktigt kalibrerad</li><li>Distorted periphery (svenska: distorsioner i periferin) Störningar i bildvolymens periferi, t ex inskränkning av bildvolymen, vilket kan bero på mekaniska fel i bländaren</li></ul><h3 id="bildinf%C3%A5ngst-rekonstruktionsrelaterade"><strong>Bildinfångst-/rekonstruktionsrelaterade</strong></h3><p>Artefakter som beror på felaktig rekonstruktion av projektionsdata.</p><p></p><ul><li>Beam hardening, streak artefacts Avsaknad av bildinformation/svarta områden i bildmaterialet, ofta i kombination med ljusa stråk som radierar ut från centrum. Orsakas av högkontrasterande material, d v s material med så hög densitet att röntgenstrålningen ej passerar eller får ett avvikande energispektra i anslutning till dess begränsningar. Ses vanligen i anslutning till metalliska material såsom guldkronor eller -pelare (Figur 7).</li></ul><p></p><figure class="kg-card kg-image-card"><img src="https://lh7-eu.googleusercontent.com/m5cs4LP_3Wabd5r_dQOQ9r1r4JL0q_MKPd3Bwu4Q-K6_FqGOBABa--CMTXxi-H-CbSCx7rUE0KBAjH9fcnI_qABZjgQtmG62VZyDy3ooHwTnFFTb15rI9PDdwTAhPMB_B6RQacgNtEmM" class="kg-image" alt="" loading="lazy" width="500" height="375"></figure><p>Figur 7. Artefakter (beam hardening och streak artefacts) från metall vid CBCT-undersökning</p><h3 id="objektpatientrelaterade"><strong>Objekt(patient)relaterade</strong></h3><p></p><ul><li>Rörelseartefakter. Som namnet antyder beror dessa artefakter på att patienten rört sig i samband med undersökningen. Dessa yttrar sig vanligen som suddiga dubbelkonturer och påverkar bildkvaliteten i hela den avbildade undersökningsvolymen.</li></ul><p></p><h2 id="skillnader-mellan-cbct-och-konventionell-datortomografi-ct"><strong>SKILLNADER MELLAN CBCT OCH KONVENTIONELL DATORTOMOGRAFI (CT)</strong></h2><p>Förutom grundläggande skillnader mellan de båda teknikerna, såsom projektionsgeometri och rekonstruktionsalgoritmer, finns ytterligare aspekter som kan vara värda att beakta:</p><p></p><ul><li>undersökningsområde</li><li>gråskalevärden</li></ul><h3 id="unders%C3%B6kningsomr%C3%A5de"><strong>Undersökningsområde</strong></h3><h4 id="cbct"><strong>CBCT</strong></h4><p>Fasta volymer (bredd x höjd x djup). Variationen i tillgängliga volymer skiljer mellan olika fabrikat, men flertalet erbjuder flera olika kombinationer (Figur 8A). Avbildningsvolymen går inte att ändra, så positioneringen måste vara exakt för att önskat avbildningsområde ska rymmas inom vald volymstorlek. Felaktig placering av avbildningsvolymen i förhållande till området av diagnostiskt intresse kan leda till att undersökningen måste göras om. För att underlätta korrekt positionering av volymen är vissa CBCT-utrustningar utrustade med en funktion för positionering (scoutbild), vilken vanligen utgörs av en frontal respektive lateral röntgenbild. Utifrån denna kan sedan volymen placeras.</p><h4 id="konventionell-datortomografi-ct"><strong>Konventionell datortomografi (CT)</strong></h4><p>Utgångspunkten vid avbildning med CT är SFOV (Scanned Field-of-view) d v s den maximala bredden på de axiala snitten. Bredden på de axiala snitten minskas genom att välja mindre DFOV (Displayed Field-of-view) i samband med rekonstruktion, så att endast en mindre del av ursprunget visas. Detta innebär att bildinformationen alltid finns tillgänglig, även om den inte visas. I händelse av att DFOV är satt för snävt och man därmed missar något område, går det alltid att utöka, alternativt justera, dess centrering i efterhand. Undersökningsområdets och därmed den slutliga volymens höjd bestäms utifrån antalet undersökta snitt (bildstack). Denna sätts utifrån en positioneringsbild (scout), och kan väljas fritt inom avbildningsområdet (Figur 8B).</p><p></p><figure class="kg-card kg-image-card"><img src="https://lh7-eu.googleusercontent.com/uc6amyXyAejQK_yyzWdDpDM_Nifo7dYfIwT4ROM6FTrK8JbaZ5h8hTqHVs8xV7VPnx4ZSwGgqDEc4SwLVvMLRAiH57LSOwk7qprt3bKOqnAU-9sLhVMEFcQRsv5ThNYEuFYuP-gqVXY9" class="kg-image" alt="" loading="lazy" width="500" height="375"></figure><p>Figur 8. CBCT-tekniken med bestämda avbildningsvolymer (A), och konventionell datortomografi där undersökningsområdets bredd utgörs av DFOV (Displayed field of view) och dess höjd av bildstackens placering och storlek (B).</p><h3 id="gr%C3%A5skalev%C3%A4rden"><strong>Gråskalevärden</strong></h3><h4 id="cbct-1"><strong>CBCT</strong></h4><p>Tekniken är inte kalibrerad mot Hounsfield-skalan, och har därmed vanligen sämre möjlighet att genom fönstersättning skilja mellan olika vävnader. Viss utrustning anses idag klara denna kalibrering, men de vetenskapliga resultaten är motstridiga. Det är framförallt projektionsgeometrin som utgör en försvårande faktor, då fältets storlek innebär att en stor del spridd strålning från närliggande strukturer träffar detektorn och ger upphov till brus och attenuering som inte är enbart kopplat till undersökningsområdet. Detta till skillnad från konventionell datortomografi där strålknippet är smalt.</p><h4 id="konventionell-datortomografi-ct-1"><strong>Konventionell datortomografi (CT)</strong></h4><p>Kalibrerade gråskalevärden, s k Hounsfield units (HU), benämnda efter CT-teknikens skapare Godfrey Hounsfield, innebär att attenueringen och därmed de presenterade gråskalevärdena bestämts utifrån densiteten för destillerat vatten. Baserat på detta sätts sedan HU-värden för olika vävnader beroende på deras densitet, varvid en urskiljning kan ske. Praktiskt innebär detta att granskaren kan välja en fönstersättning (HU-värde) beroende på vilken typ av vävnad hen är intresserad av och att undersökningarna kan användas för att bedöma tätheten i en vävnad (t ex bentäthetsmätningar).</p><p>&nbsp;</p><hr><h3 id="referenser"><strong>Referenser</strong></h3><p>Danell M, Gröndahl H-G. Snabb spridning av CBCT-tekniken. Tandläkartidningen 2014; 106(6), 66-71</p><p>Mah P, Reeves TE, McDavid WD. Deriving Hounsfield units using grey levels in cone beam computed tomography. Dentomaxillofacial Radiology 2010;39:323-335</p><p>Mahamed, K, Shakeri, D, Lund, H, Ekestubbe A. Cone Beam Computed Tomography (CBCT) inom tandvården - en enkätstudie om användning och erfarenheter i ett 8-års perspektiv. Magisteruppsats, Institutionen för Odontologi, Sahlgrenska akademin vid Göteborgs universitet 2022.</p><p>Mallya &amp; Lam, editors. White and Pharoah’s . Oral Radiology Principles and Interpretation. 8th&nbsp; Edition. 2019 . Mosby, Elsevier Inc. St. Louis, Missouri, US.<strong>&nbsp;</strong></p><p>Molteni R. Prospects and challenges of rendering tissue density in Hounsfield units for cone beam computed tomography. Oral Surg Oral Med Oral Pathol Oral Radiol 2013;116:105-119</p><p>Pauwels R, Nackaerts O, Bellaiche N, Stamatakis H, Tsiklakis K, Walker A, et al. Variability of dental cone beam CT grey values for density estimations. Br J Radiol 2013;86:20120135</p><p>Pettersson J, Saar A, Ekestubbe A, Lund H. Cone Beam Computed Tomography (CBCT) i Sverige idag. En enkätstudie om användning och erfarenheter av ny radiologisk teknik. Magisteruppsats, Institutionen för odontologi, Sahlgrenska akademin vid Göteborgs universitet 2013.</p><p>Scarfe WC, Farman AG. What is Cone-Beam CT and How does it Work? Dent Clin N Am, 2008;52, 707-730</p><p>Scarfe WC, Li Z, Aboelmaaty W, Scott SA, Farman AG. Maxillofacial cone beam computed tomography: essence, elements and steps to interpretation. Australian Dental Journal 2012;57:(1 Suppl):46-60</p><p>Schulze R, Heil U, Grob D, Bruellmann DD, Dranischnikow E, Schwanecke U and Schoemer E. Artefacts in CBCT: a review. Dentomaxillofacial Radiology 2011;40:265-273</p><p>Mallya &amp; Lam, editors. White and Pharoah’s . Oral Radiology Principles and Interpretation. 8th&nbsp; Edition. 2019 . Mosby, Elsevier Inc. St. Louis, Missouri, US.</p><p>http://www.sedentexct.eu</p><p></p>
+        </div>
+    </section>
+
+
+</article>
+</main>
+
+<!-- 
+    <section class="footer-cta outer">
+        <div class="inner">
+            <h2 class="footer-cta-title">Sign up for more like this.</h2>
+            <a class="footer-cta-button" href=">
+                <div class="footer-cta-input">Din e-mail</div>
+                <span>Få uppdateringar!</span>
+            </a>
+        </div>
+    </section>
+ -->
+
+
+            <aside class="read-more-wrap outer">
+                <div class="read-more inner">    
+                        
+<article class="post-card post no-image">
+
+    <a class="post-card-content-link" href="../../parodontologi/gingivit/index.html">
+        <div class="post-card-content">
+                <header class="post-card-header">
+                    <div class="post-card-tags">
+                    </div>
+                    <h2 class="post-card-title">
+                        Gingivit
+                    </h2>
+                </header>
+                <!--
+                    <div class="post-card-excerpt">Orginaltext författad av: Schander Kerstin
+
+
+BAKGRUND
+
+Gingivit är en inflammation i mjukvävnaden runt tänderna som kan ha olika orsaker. I texten nedan avses plackinducerad gingivit om inte annat tillstånd anges. Gingivit är till skillnad från parodontit, reversibel och ger ingen förlust av tandens stödjevävnad. Tillståndet är den vanligast förekommande formen</div>
+                 -->
+        
+
+            <footer class="post-card-meta">
+                <time class="update" datetime="2024-07-12">12 jul 2024</time>
+                    <span class="reading-time">5 min lästid</span>
+            </footer>
+
+        </div>
+    </a>
+
+</article>
+                        
+<article class="post-card post no-image">
+
+    <a class="post-card-content-link" href="../../kakkirurgi/visdomstand-retinerad/index.html">
+        <div class="post-card-content">
+                <header class="post-card-header">
+                    <div class="post-card-tags">
+                    </div>
+                    <h2 class="post-card-title">
+                        Retinerad visdomstand
+                    </h2>
+                </header>
+                <!--
+                    <div class="post-card-excerpt">BAKGRUND
+
+Tredje molaren, eller visdomstanden, erupterar vanligtvis runt 20 års ålder. Frambrottet kan vara fullständigt eller partiellt, men visdomstanden kan också bli kvar i käkbenet. När en fullständig eruption av tanden uteblir trots fullt utvecklade rötter, benämns tanden retinerad.
+
+
+Prevalens
+
+Förekomsten av visdomständer i den svenska befolkningen är inte helt</div>
+                 -->
+        
+
+            <footer class="post-card-meta">
+                <time class="update" datetime="2024-07-10">10 jul 2024</time>
+                    <span class="reading-time">5 min lästid</span>
+            </footer>
+
+        </div>
+    </a>
+
+</article>
+                        
+<article class="post-card post no-image">
+
+    <a class="post-card-content-link" href="../../cariologi/primar-kariesprevention-tidigt-i-livet-bevara-det-friska-friskt/index.html">
+        <div class="post-card-content">
+                <header class="post-card-header">
+                    <div class="post-card-tags">
+                    </div>
+                    <h2 class="post-card-title">
+                        Primär kariesprevention tidigt i livet - Bevara det friska friskt
+                    </h2>
+                </header>
+                <!--
+                    <div class="post-card-excerpt">BAKGRUND
+
+Karies är en av de vanligaste sjukdomarna hos barn och förekommer i alla länder (1). För att minska förekomsten av karies hos små barn rekommenderar WHO samt IAPD Bangkok-deklarationen åtgärder som leder till ökad medvetenhet om karies hos föräldrar, vårdgivare och andra arenor där barn vistas (1, 2).
+
+Under</div>
+                 -->
+        
+
+            <footer class="post-card-meta">
+                <time class="update" datetime="2024-07-05">5 jul 2024</time>
+                    <span class="reading-time">11 min lästid</span>
+            </footer>
+
+        </div>
+    </a>
+
+</article>
+                </div>
+            </aside>
+
+
+
+
+
+
+        <button id="backToTop" class="back-to-top"><i class="fas fa-arrow-up"></i></button>
+    </div>
+
+    <footer class="site-footer outer">
+        <div class="inner">
+            <section class="copyright"><a href="../../index.html">Internetodontologi</a> &copy; 2024</section>
+            <nav class="site-footer-nav">
+                <div class="my-fancy-nav-wrapper">
+    <ul class="nav">
+        <li class="nav-skapa-konto"><a href="../../signup/index.html">Skapa konto</a>
+        </li>
+        <li class="nav-logga-in"><a href="../../signin/index.html">Logga in</a>
+        </li>
+        <li class="nav-tandakademin"><a href="https://www.tandakademin.se/">Tandakademin</a>
+        </li>
+    </ul>
+</div>
+
+            </nav>
+            <script>
+    const darkModeSwitch = document.createElement('label');
+    darkModeSwitch.setAttribute('class', 'switch');
+    darkModeSwitch.setAttribute('for', 'dark-mode-switch');
+
+    const inputCheckbox = document.createElement('input');
+    inputCheckbox.setAttribute('type', 'checkbox');
+    inputCheckbox.setAttribute('id', 'dark-mode-switch');
+
+    const slider = document.createElement('span');
+    slider.setAttribute('class', 'slider');
+
+    const moonIcon = document.createElement('span');
+    moonIcon.setAttribute('class', 'moon-icon');
+    moonIcon.textContent = '🌙';
+    slider.appendChild(moonIcon);
+
+    darkModeSwitch.appendChild(inputCheckbox);
+    darkModeSwitch.appendChild(slider);
+
+    const targetElement = document.querySelector('.site-content');
+    targetElement.insertAdjacentElement('afterend', darkModeSwitch);
+
+    document.addEventListener('DOMContentLoaded', function() {
+        const htmlElement = document.querySelector('html');
+        const isDarkMode = localStorage.getItem('dark-mode') === 'true';
+
+        inputCheckbox.checked = isDarkMode;
+        if (isDarkMode) {
+            htmlElement.classList.add('dark-mode');
+            moonIcon.style.display = 'none';
+        } else {
+            moonIcon.style.display = 'inline';
+        }
+
+        darkModeSwitch.addEventListener('click', function(event) {
+            event.preventDefault();
+            inputCheckbox.checked = !inputCheckbox.checked;
+            htmlElement.classList.toggle('dark-mode');
+            const darkModeEnabled = inputCheckbox.checked;
+            localStorage.setItem('dark-mode', darkModeEnabled);
+            if (darkModeEnabled) {
+                moonIcon.style.display = 'none';
+            } else {
+                moonIcon.style.display = 'inline';
+            }
+        });
+    });
+</script>            <div class="gh-powered-by"><a href="https://internetmedicin.se/" target="_blank" rel="noopener">En del av Internetmedicin.se</a></div>
+        </div>
+    </footer>
+
+</div>
+
+    <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="pswp__bg"></div>
+
+    <div class="pswp__scroll-wrap">
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <div class="pswp__ui pswp__ui--hidden">
+            <div class="pswp__top-bar">
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<script
+    src="../../../code.jquery.com/jquery-3.5.1.min.js"
+    integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+    crossorigin="anonymous">
+</script>
+<script src="../../assets/built/casper419f.js?v=460d6bcda5"></script>
+<script>
+$(document).ready(function () {
+    // Mobile Menu Trigger
+    $('.gh-burger').click(function () {
+        $('body').toggleClass('gh-head-open');
+    });
+    // FitVids - Makes video embeds responsive
+    $(".gh-content").fitVids();
+});
+</script>
+
+<script>
+    // Back to top button to appear after scrolled down 3% of page height
+    const backToTopButton = document.getElementById('backToTop');
+
+window.addEventListener('scroll', () => {
+    let totalPageHeight = document.documentElement.scrollHeight;
+    let currentScrollPosition = window.pageYOffset;
+
+    if (currentScrollPosition > totalPageHeight * 0.03) {
+        backToTopButton.style.display = 'block';
+    } else {
+        backToTopButton.style.display = 'none';
+    }
+});
+
+backToTopButton.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+</script>
+
+<script>
+  document.addEventListener('contextmenu', function(e) {
+    e.preventDefault(); // Prevents right-click menu
+  }, false);
+
+  document.addEventListener('keydown', function(e) {
+    // Check for Ctrl or Cmd key along with C
+    if ((e.ctrlKey || e.metaKey) && e.keyCode === 67) {
+      e.preventDefault(); // Prevents Ctrl+C or Cmd+C
+    }
+    // Check for Ctrl or Cmd key along with P
+    if ((e.ctrlKey || e.metaKey) && e.keyCode === 80) {
+      e.preventDefault(); // Prevents Ctrl+P or Cmd+P
+    }
+  }, false);
+</script>
+
+
+
+</body>
+
+<!-- Mirrored from www.internetodontologi.se/radiologi/cbct-cone-beam-computed-tomography-tekniska-aspekter/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 13 Jul 2024 11:59:37 GMT -->
+</html>

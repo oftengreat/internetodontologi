@@ -1,0 +1,889 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 13 Jul 2024 13:58:34 at https://www.internetodontologi.se/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.internetodontologi.se/ -O1 "C:\My Web Sites\internetodontologi" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:58:46	Error: 	"Not Found" (404) at link https://www.internetodontologi.se/webmentions/receive/ (from https://www.internetodontologi.se/)
+14:00:56	Error: 	"Not Found" (404) at link https://www.internetodontologi.se/members/api/send-magic-link/ (from https://www.internetodontologi.se/signin/)
+14:03:09	Warning: 	Moved Permanently for https://www.internetodontologi.se/parodontologi/gingivit/amp/
+14:03:09	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/parodontologi/gingivit/amp/ and https://www.internetodontologi.se/parodontologi/gingivit/amp/
+14:03:09	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/parodontologi/gingivit/amp/
+14:03:09	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/visdomstand-retinerad/amp/
+14:03:09	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/visdomstand-retinerad/amp/ and https://www.internetodontologi.se/kakkirurgi/visdomstand-retinerad/amp/
+14:03:09	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/visdomstand-retinerad/amp/
+14:03:09	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/antibiotikabehandling-av-odontogena-infektioner/
+14:03:09	Warning: 	File has moved from https://www.internetodontologi.se/endodonti/antibiotikabehandling-av-odontogena-infektioner/ to /orofacial-medicin/antibiotikabehandling-av-odontogena-infektioner/
+14:03:09	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/primar-kariesprevention-tidigt-i-livet-bevara-det-friska-friskt/amp/
+14:03:09	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/primar-kariesprevention-tidigt-i-livet-bevara-det-friska-friskt/amp/ and https://www.internetodontologi.se/cariologi/primar-kariesprevention-tidigt-i-livet-bevara-det-friska-friskt/amp/
+14:03:09	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/primar-kariesprevention-tidigt-i-livet-bevara-det-friska-friskt/amp/
+14:03:10	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/tandlucka-i-sidosegment-platsberedning/amp/
+14:03:10	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/tandlucka-i-sidosegment-platsberedning/amp/ and https://www.internetodontologi.se/ortodonti/tandlucka-i-sidosegment-platsberedning/amp/
+14:03:10	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/tandlucka-i-sidosegment-platsberedning/amp/
+14:03:10	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/infraocklusion-av-primara-molarer/amp/
+14:03:10	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/infraocklusion-av-primara-molarer/amp/ and https://www.internetodontologi.se/ortodonti/infraocklusion-av-primara-molarer/amp/
+14:03:10	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/infraocklusion-av-primara-molarer/amp/
+14:03:10	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/orala-svampinfektioner/amp/
+14:03:10	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/orala-svampinfektioner/amp/ and https://www.internetodontologi.se/orofacial-medicin/orala-svampinfektioner/amp/
+14:03:10	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/orala-svampinfektioner/amp/
+14:03:10	Warning: 	Moved Permanently for https://www.internetodontologi.se/ovrigt/kunskapsstyrning-i-tandvarden/amp/
+14:03:10	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ovrigt/kunskapsstyrning-i-tandvarden/amp/ and https://www.internetodontologi.se/ovrigt/kunskapsstyrning-i-tandvarden/amp/
+14:03:10	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ovrigt/kunskapsstyrning-i-tandvarden/amp/
+14:03:10	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/obstruktiv-somnapne/amp/
+14:03:10	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/obstruktiv-somnapne/amp/ and https://www.internetodontologi.se/ortodonti/obstruktiv-somnapne/amp/
+14:03:10	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/obstruktiv-somnapne/amp/
+14:03:10	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/white-spot-lesions-efter-fast-tandstallning/amp/
+14:03:10	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/white-spot-lesions-efter-fast-tandstallning/amp/ and https://www.internetodontologi.se/ortodonti/white-spot-lesions-efter-fast-tandstallning/amp/
+14:03:10	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/white-spot-lesions-efter-fast-tandstallning/amp/
+14:03:10	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/farmakologisk-behandling-av-smartsam-kakfunktionsstorning/amp/
+14:03:10	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/farmakologisk-behandling-av-smartsam-kakfunktionsstorning/amp/ and https://www.internetodontologi.se/bettfysiologi/farmakologisk-behandling-av-smartsam-kakfunktionsstorning/amp/
+14:03:10	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/farmakologisk-behandling-av-smartsam-kakfunktionsstorning/amp/
+14:03:10	Warning: 	Moved Permanently for https://www.internetodontologi.se/ovrigt/horselskador-och-buller-inom-tandvard/amp/
+14:03:10	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ovrigt/horselskador-och-buller-inom-tandvard/amp/ and https://www.internetodontologi.se/ovrigt/horselskador-och-buller-inom-tandvard/amp/
+14:03:10	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ovrigt/horselskador-och-buller-inom-tandvard/amp/
+14:03:10	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/terapiplanering-och-vardambitionsniva-inom-aldretandvard/amp/
+14:03:10	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/terapiplanering-och-vardambitionsniva-inom-aldretandvard/amp/ and https://www.internetodontologi.se/orofacial-medicin/terapiplanering-och-vardambitionsniva-inom-aldretandvard/amp/
+14:03:10	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/terapiplanering-och-vardambitionsniva-inom-aldretandvard/amp/
+14:03:12	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/palliativ-munvard-i-livets-slutskede/amp/
+14:03:12	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/palliativ-munvard-i-livets-slutskede/amp/ and https://www.internetodontologi.se/orofacial-medicin/palliativ-munvard-i-livets-slutskede/amp/
+14:03:12	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/palliativ-munvard-i-livets-slutskede/amp/
+14:03:12	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/snarkning/amp/
+14:03:12	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/snarkning/amp/ and https://www.internetodontologi.se/ortodonti/snarkning/amp/
+14:03:12	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/snarkning/amp/
+14:03:12	Error: 	"Not Found" (404) at link https://www.internetodontologi.se/obstruktiv-somnapne/ (from https://www.internetodontologi.se/ortodonti/snarkning/)
+14:03:12	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/djupbett/amp/
+14:03:12	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/djupbett/amp/ and https://www.internetodontologi.se/ortodonti/djupbett/amp/
+14:03:12	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/djupbett/amp/
+14:03:16	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/farmakologisk-behandling-av-smartsam-kakfunktionsstorning-fordjupning/amp/
+14:03:16	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/farmakologisk-behandling-av-smartsam-kakfunktionsstorning-fordjupning/amp/ and https://www.internetodontologi.se/bettfysiologi/farmakologisk-behandling-av-smartsam-kakfunktionsstorning-fordjupning/amp/
+14:03:16	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/farmakologisk-behandling-av-smartsam-kakfunktionsstorning-fordjupning/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/tandtrauma-concussion/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/tandtrauma-concussion/amp/ and https://www.internetodontologi.se/pedodonti/tandtrauma-concussion/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/tandtrauma-concussion/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/tandtrauma/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/tandtrauma/amp/ and https://www.internetodontologi.se/pedodonti/tandtrauma/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/tandtrauma/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/tandtrauma-subluxation/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/tandtrauma-subluxation/amp/ and https://www.internetodontologi.se/pedodonti/tandtrauma-subluxation/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/tandtrauma-subluxation/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/tandtrauma-rotfraktur/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/tandtrauma-rotfraktur/amp/ and https://www.internetodontologi.se/pedodonti/tandtrauma-rotfraktur/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/tandtrauma-rotfraktur/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/tandtrauma-lateralluxation/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/tandtrauma-lateralluxation/amp/ and https://www.internetodontologi.se/pedodonti/tandtrauma-lateralluxation/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/tandtrauma-lateralluxation/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/tandtrauma-kronfraktur/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/tandtrauma-kronfraktur/amp/ and https://www.internetodontologi.se/pedodonti/tandtrauma-kronfraktur/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/tandtrauma-kronfraktur/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/tandtrauma-intrusionsluxation/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/tandtrauma-intrusionsluxation/amp/ and https://www.internetodontologi.se/pedodonti/tandtrauma-intrusionsluxation/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/tandtrauma-intrusionsluxation/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/tandtrauma-extrusionsluxation/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/tandtrauma-extrusionsluxation/amp/ and https://www.internetodontologi.se/pedodonti/tandtrauma-extrusionsluxation/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/tandtrauma-extrusionsluxation/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/tandtrauma-exartikulation/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/tandtrauma-exartikulation/amp/ and https://www.internetodontologi.se/pedodonti/tandtrauma-exartikulation/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/tandtrauma-exartikulation/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/kraniofaciala-syndrom/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/kraniofaciala-syndrom/amp/ and https://www.internetodontologi.se/ortodonti/kraniofaciala-syndrom/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/kraniofaciala-syndrom/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/radiologi/cbct-cone-beam-computed-tomography-indikationer-och-straldoser/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/radiologi/cbct-cone-beam-computed-tomography-indikationer-och-straldoser/amp/ and https://www.internetodontologi.se/radiologi/cbct-cone-beam-computed-tomography-indikationer-och-straldoser/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/radiologi/cbct-cone-beam-computed-tomography-indikationer-och-straldoser/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/radiologi/cbct-cone-beam-computed-tomography-tekniska-aspekter/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/radiologi/cbct-cone-beam-computed-tomography-tekniska-aspekter/amp/ and https://www.internetodontologi.se/radiologi/cbct-cone-beam-computed-tomography-tekniska-aspekter/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/radiologi/cbct-cone-beam-computed-tomography-tekniska-aspekter/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/utveckling-av-det-orala-mikrobiomet/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/utveckling-av-det-orala-mikrobiomet/amp/ and https://www.internetodontologi.se/pedodonti/utveckling-av-det-orala-mikrobiomet/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/utveckling-av-det-orala-mikrobiomet/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/friandstandloshet-enkel-och-dubbelsidig/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/friandstandloshet-enkel-och-dubbelsidig/amp/ and https://www.internetodontologi.se/protetik/friandstandloshet-enkel-och-dubbelsidig/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/friandstandloshet-enkel-och-dubbelsidig/amp/
+14:03:18	Error: 	"Not Found" (404) at link https://www.internetodontologi.se/allmanna-villkor/www.internetodontologi.se/ (from https://www.internetodontologi.se/allmanna-villkor/)
+14:03:18	Error: 	"Not Found" (404) at link https://www.internetodontologi.se/allmanna-villkor/www.internetodontologi.se/integritetspolicy/ (from https://www.internetodontologi.se/allmanna-villkor/)
+14:03:18	Error: 	"Not Found" (404) at link https://www.internetodontologi.se/allmanna-villkor/ec.europa.eu/consumers/odr/ (from https://www.internetodontologi.se/allmanna-villkor/)
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/recidiverande-aftos-stomatit-ras-afte/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/recidiverande-aftos-stomatit-ras-afte/amp/ and https://www.internetodontologi.se/orofacial-medicin/recidiverande-aftos-stomatit-ras-afte/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/recidiverande-aftos-stomatit-ras-afte/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/agenesi-av-uk-5or/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/agenesi-av-uk-5or/amp/ and https://www.internetodontologi.se/ortodonti/agenesi-av-uk-5or/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/agenesi-av-uk-5or/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/aktinisk-cheilit-solskada-pa-lappen/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/aktinisk-cheilit-solskada-pa-lappen/amp/ and https://www.internetodontologi.se/orofacial-medicin/aktinisk-cheilit-solskada-pa-lappen/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/aktinisk-cheilit-solskada-pa-lappen/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/akupunktur-stimulering-for-smartlindring/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/akupunktur-stimulering-for-smartlindring/amp/ and https://www.internetodontologi.se/bettfysiologi/akupunktur-stimulering-for-smartlindring/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/akupunktur-stimulering-for-smartlindring/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/amelogenesis-imperfekta-protetisk-behandling/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/amelogenesis-imperfekta-protetisk-behandling/amp/ and https://www.internetodontologi.se/protetik/amelogenesis-imperfekta-protetisk-behandling/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/amelogenesis-imperfekta-protetisk-behandling/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/amning-och-kariesrisk/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/amning-och-kariesrisk/amp/ and https://www.internetodontologi.se/pedodonti/amning-och-kariesrisk/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/amning-och-kariesrisk/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/antibiotikabehandling-av-odontogena-infektioner/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/antibiotikabehandling-av-odontogena-infektioner/amp/ and https://www.internetodontologi.se/orofacial-medicin/antibiotikabehandling-av-odontogena-infektioner/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/antibiotikabehandling-av-odontogena-infektioner/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/orala-svampinfektioner/
+14:03:18	Warning: 	File has moved from https://www.internetodontologi.se/orala-svampinfektioner/ to /orofacial-medicin/orala-svampinfektioner/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/orala-virusinfektioner/
+14:03:18	Warning: 	File has moved from https://www.internetodontologi.se/orala-virusinfektioner/ to /orofacial-medicin/orala-virusinfektioner/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/antibiotikaprofylax-inom-tandvarden/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/antibiotikaprofylax-inom-tandvarden/amp/ and https://www.internetodontologi.se/kakkirurgi/antibiotikaprofylax-inom-tandvarden/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/antibiotikaprofylax-inom-tandvarden/amp/
+14:03:18	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/apikalkirurgi-med-retrograd-fyllning/amp/
+14:03:18	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/apikalkirurgi-med-retrograd-fyllning/amp/ and https://www.internetodontologi.se/endodonti/apikalkirurgi-med-retrograd-fyllning/amp/
+14:03:18	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/apikalkirurgi-med-retrograd-fyllning/amp/
+14:03:19	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/aplasi-av-overkakslateralen-ortodontisk-luckslutning-vs-luckoppning/amp/
+14:03:19	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/aplasi-av-overkakslateralen-ortodontisk-luckslutning-vs-luckoppning/amp/ and https://www.internetodontologi.se/ortodonti/aplasi-av-overkakslateralen-ortodontisk-luckslutning-vs-luckoppning/amp/
+14:03:19	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/aplasi-av-overkakslateralen-ortodontisk-luckslutning-vs-luckoppning/amp/
+14:03:19	Warning: 	Moved Permanently for https://www.internetodontologi.se/ovrigt/arbetsmiljo-och-ergonomi-inom-tandvarden/amp/
+14:03:19	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ovrigt/arbetsmiljo-och-ergonomi-inom-tandvarden/amp/ and https://www.internetodontologi.se/ovrigt/arbetsmiljo-och-ergonomi-inom-tandvarden/amp/
+14:03:19	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ovrigt/arbetsmiljo-och-ergonomi-inom-tandvarden/amp/
+14:03:19	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/artrocentes-av-kakled-2/amp/
+14:03:19	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/artrocentes-av-kakled-2/amp/ and https://www.internetodontologi.se/kakkirurgi/artrocentes-av-kakled-2/amp/
+14:03:19	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/artrocentes-av-kakled-2/amp/
+14:03:19	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/artroskopi-avlosning-av-sammanvaxningar-och-renspolning/amp/
+14:03:19	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/artroskopi-avlosning-av-sammanvaxningar-och-renspolning/amp/ and https://www.internetodontologi.se/kakkirurgi/artroskopi-avlosning-av-sammanvaxningar-och-renspolning/amp/
+14:03:19	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/artroskopi-avlosning-av-sammanvaxningar-och-renspolning/amp/
+14:03:19	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/astma-och-karies/amp/
+14:03:19	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/astma-och-karies/amp/ and https://www.internetodontologi.se/pedodonti/astma-och-karies/amp/
+14:03:19	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/astma-och-karies/amp/
+14:03:19	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/barnreumatisk-ledsjukdom-jia/amp/
+14:03:19	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/barnreumatisk-ledsjukdom-jia/amp/ and https://www.internetodontologi.se/pedodonti/barnreumatisk-ledsjukdom-jia/amp/
+14:03:19	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/barnreumatisk-ledsjukdom-jia/amp/
+14:04:01	Error: 	"Not Found" (404) at link https://www.internetodontologi.se/signup/e/ (from https://embed.typeform.com/next/embed.js)
+14:04:01	Error: 	"Not Found" (404) at link https://www.internetodontologi.se/to/ (from https://embed.typeform.com/next/embed.js)
+14:04:01	Warning: 	Moved Permanently for https://www.internetodontologi.se/signup/-closed=true;Path=/
+14:04:01	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/signup/-closed=true;Path=/ and https://www.internetodontologi.se/signup/-closed=true;path=/
+14:04:01	Warning: 	Warning moved treated for https://www.internetodontologi.se/signup/-closed=true;Path=/ (real one is https://www.internetodontologi.se/signup/-closed=true;path=/)
+14:04:01	Error: 	"Not Found" (404) at link https://www.internetodontologi.se/signup/window.location.href/ (from https://embed.typeform.com/next/embed.js)
+14:04:02	Error: 	"Forbidden" (403) at link https://embed.typeform.com/next/css/ (from https://embed.typeform.com/next/embed.js)
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/bettfysiologiremiss/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/bettfysiologiremiss/amp/ and https://www.internetodontologi.se/bettfysiologi/bettfysiologiremiss/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/bettfysiologiremiss/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/bettskenor/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/bettskenor/amp/ and https://www.internetodontologi.se/bettfysiologi/bettskenor/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/bettskenor/amp/
+14:04:02	Error: 	"Not Found" (404) at link https://www.internetodontologi.se/smarta-och-funktionsstorning-i-kakmuskulatur/ (from https://www.internetodontologi.se/bettfysiologi/bettskenor/)
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/radiologi/bilddiagnostik-vid-orofacial-smarta-och-kakfunktionsstorning/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/radiologi/bilddiagnostik-vid-orofacial-smarta-och-kakfunktionsstorning/amp/ and https://www.internetodontologi.se/radiologi/bilddiagnostik-vid-orofacial-smarta-och-kakfunktionsstorning/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/radiologi/bilddiagnostik-vid-orofacial-smarta-och-kakfunktionsstorning/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/atypisk-odontalgi-idiopatiskneuropatisk-tandsmarta/
+14:04:02	Warning: 	File has moved from https://www.internetodontologi.se/bettfysiologi/atypisk-odontalgi-idiopatiskneuropatisk-tandsmarta/ to /endodonti/atypisk-odontalgi-idiopatiskneuropatisk-tandsmarta/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/diagnosprocess-vid-kaksmarta/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/diagnosprocess-vid-kaksmarta/amp/ and https://www.internetodontologi.se/bettfysiologi/diagnosprocess-vid-kaksmarta/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/diagnosprocess-vid-kaksmarta/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/diskektomi/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/diskektomi/amp/ and https://www.internetodontologi.se/kakkirurgi/diskektomi/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/diskektomi/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/diskforskjutningsproblematik/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/diskforskjutningsproblematik/amp/ and https://www.internetodontologi.se/bettfysiologi/diskforskjutningsproblematik/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/diskforskjutningsproblematik/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/artrocentes-av-kakled/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/artrocentes-av-kakled/ and https://www.internetodontologi.se/bettfysiologi/artrocentes-av-kakled/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/artrocentes-av-kakled/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/artroskopi-avlosning-av-sammanvaxningar-och-renspolning/
+14:04:02	Warning: 	File has moved from https://www.internetodontologi.se/bettfysiologi/artroskopi-avlosning-av-sammanvaxningar-och-renspolning/ to /kakkirurgi/artroskopi-avlosning-av-sammanvaxningar-och-renspolning/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/diskektomi/
+14:04:02	Warning: 	File has moved from https://www.internetodontologi.se/bettfysiologi/diskektomi/ to /kakkirurgi/diskektomi/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/ehlers-danlos-syndrom-och-kakfunktionsstorningar/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/ehlers-danlos-syndrom-och-kakfunktionsstorningar/amp/ and https://www.internetodontologi.se/bettfysiologi/ehlers-danlos-syndrom-och-kakfunktionsstorningar/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/ehlers-danlos-syndrom-och-kakfunktionsstorningar/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/huvudvark-och-tmd/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/huvudvark-och-tmd/amp/ and https://www.internetodontologi.se/bettfysiologi/huvudvark-och-tmd/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/huvudvark-och-tmd/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/icke-invasiv-radiofrekvensterapi-varmeterapi-stimulering-for-smartlindring/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/icke-invasiv-radiofrekvensterapi-varmeterapi-stimulering-for-smartlindring/amp/ and https://www.internetodontologi.se/bettfysiologi/icke-invasiv-radiofrekvensterapi-varmeterapi-stimulering-for-smartlindring/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/icke-invasiv-radiofrekvensterapi-varmeterapi-stimulering-for-smartlindring/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/kakledssmarta/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/kakledssmarta/amp/ and https://www.internetodontologi.se/bettfysiologi/kakledssmarta/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/kakledssmarta/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/katastrofiering-och-rorelseradsla-vid-langvarig-tmd/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/katastrofiering-och-rorelseradsla-vid-langvarig-tmd/amp/ and https://www.internetodontologi.se/bettfysiologi/katastrofiering-och-rorelseradsla-vid-langvarig-tmd/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/katastrofiering-och-rorelseradsla-vid-langvarig-tmd/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/laser-stimulering-for-smartlindring/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/laser-stimulering-for-smartlindring/amp/ and https://www.internetodontologi.se/bettfysiologi/laser-stimulering-for-smartlindring/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/laser-stimulering-for-smartlindring/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/bonding/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/bonding/amp/ and https://www.internetodontologi.se/protetik/bonding/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/bonding/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/dentala-material-och-arbetsmiljo/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/dentala-material-och-arbetsmiljo/amp/ and https://www.internetodontologi.se/cariologi/dentala-material-och-arbetsmiljo/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/dentala-material-och-arbetsmiljo/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/latex-i-tandvarden-risker-och-rekommendationer-2/
+14:04:02	Warning: 	File has moved from https://www.internetodontologi.se/protetik/latex-i-tandvarden-risker-och-rekommendationer-2/ to /ovrigt/latex-i-tandvarden-risker-och-rekommendationer-2/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/diabetes-och-karies/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/diabetes-och-karies/amp/ and https://www.internetodontologi.se/cariologi/diabetes-och-karies/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/diabetes-och-karies/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/eltandborste-manuell-tandborste/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/eltandborste-manuell-tandborste/amp/ and https://www.internetodontologi.se/cariologi/eltandborste-manuell-tandborste/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/eltandborste-manuell-tandborste/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/munhygien-och-egenvard/
+14:04:02	Warning: 	File has moved from https://www.internetodontologi.se/cariologi/munhygien-och-egenvard/ to /parodontologi/munhygien-och-egenvard/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/erosioner-dentala/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/erosioner-dentala/amp/ and https://www.internetodontologi.se/cariologi/erosioner-dentala/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/erosioner-dentala/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/fissurforsegling-av-primara-och-permanenta-tander/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/fissurforsegling-av-primara-och-permanenta-tander/amp/ and https://www.internetodontologi.se/cariologi/fissurforsegling-av-primara-och-permanenta-tander/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/fissurforsegling-av-primara-och-permanenta-tander/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/fluoridlackning-vid-forhojd-risk-for-kronkaries/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/fluoridlackning-vid-forhojd-risk-for-kronkaries/amp/ and https://www.internetodontologi.se/cariologi/fluoridlackning-vid-forhojd-risk-for-kronkaries/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/fluoridlackning-vid-forhojd-risk-for-kronkaries/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/fluoridlackning-vid-forhojd-risk-for-rotkaries/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/fluoridlackning-vid-forhojd-risk-for-rotkaries/amp/ and https://www.internetodontologi.se/cariologi/fluoridlackning-vid-forhojd-risk-for-rotkaries/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/fluoridlackning-vid-forhojd-risk-for-rotkaries/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/fluoridlackning-vid-initial-kronkaries-med-risk-for-progression/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/fluoridlackning-vid-initial-kronkaries-med-risk-for-progression/amp/ and https://www.internetodontologi.se/cariologi/fluoridlackning-vid-initial-kronkaries-med-risk-for-progression/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/fluoridlackning-vid-initial-kronkaries-med-risk-for-progression/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/fluoridlackning-vid-initial-rotkaries-med-risk-for-progression/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/fluoridlackning-vid-initial-rotkaries-med-risk-for-progression/amp/ and https://www.internetodontologi.se/cariologi/fluoridlackning-vid-initial-rotkaries-med-risk-for-progression/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/fluoridlackning-vid-initial-rotkaries-med-risk-for-progression/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/fluoridskoljning-viktigt-komplement-till-fluortandkram-vid-okad-risk-for-karies-och-vid-aktiv-kariessjukdom/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/fluoridskoljning-viktigt-komplement-till-fluortandkram-vid-okad-risk-for-karies-och-vid-aktiv-kariessjukdom/amp/ and https://www.internetodontologi.se/cariologi/fluoridskoljning-viktigt-komplement-till-fluortandkram-vid-okad-risk-for-karies-och-vid-aktiv-kariessjukdom/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/fluoridskoljning-viktigt-komplement-till-fluortandkram-vid-okad-risk-for-karies-och-vid-aktiv-kariessjukdom/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/fluoridtandkram-vid-risk-for-karies/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/fluoridtandkram-vid-risk-for-karies/amp/ and https://www.internetodontologi.se/cariologi/fluoridtandkram-vid-risk-for-karies/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/fluoridtandkram-vid-risk-for-karies/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/forsegling-av-approximal-emalj-och-dentinkaries-utan-kavitet-med-plastbaserade-material/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/forsegling-av-approximal-emalj-och-dentinkaries-utan-kavitet-med-plastbaserade-material/amp/ and https://www.internetodontologi.se/cariologi/forsegling-av-approximal-emalj-och-dentinkaries-utan-kavitet-med-plastbaserade-material/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/forsegling-av-approximal-emalj-och-dentinkaries-utan-kavitet-med-plastbaserade-material/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/glasjonomera-material/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/glasjonomera-material/amp/ and https://www.internetodontologi.se/cariologi/glasjonomera-material/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/glasjonomera-material/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/hardljuslampor/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/hardljuslampor/amp/ and https://www.internetodontologi.se/cariologi/hardljuslampor/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/hardljuslampor/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/bonding/
+14:04:02	Warning: 	File has moved from https://www.internetodontologi.se/cariologi/bonding/ to /protetik/bonding/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/desinfektionsmedel-inom-rotbehandling/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/desinfektionsmedel-inom-rotbehandling/amp/ and https://www.internetodontologi.se/endodonti/desinfektionsmedel-inom-rotbehandling/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/desinfektionsmedel-inom-rotbehandling/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/endodontiremiss/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/endodontiremiss/amp/ and https://www.internetodontologi.se/endodonti/endodontiremiss/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/endodontiremiss/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/endodontisk-behandling-av-omogna-permanenta-tander/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/endodontisk-behandling-av-omogna-permanenta-tander/amp/ and https://www.internetodontologi.se/pedodonti/endodontisk-behandling-av-omogna-permanenta-tander/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/endodontisk-behandling-av-omogna-permanenta-tander/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/filfraktur-avlagsnande-av-filfragment/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/filfraktur-avlagsnande-av-filfragment/amp/ and https://www.internetodontologi.se/endodonti/filfraktur-avlagsnande-av-filfragment/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/filfraktur-avlagsnande-av-filfragment/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/filfraktur-rotbehandling-till-filfragmentet/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/filfraktur-rotbehandling-till-filfragmentet/amp/ and https://www.internetodontologi.se/endodonti/filfraktur-rotbehandling-till-filfragmentet/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/filfraktur-rotbehandling-till-filfragmentet/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/filfraktur-rotfyllning-till-filfragmentet-och-retrograd-behandling/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/filfraktur-rotfyllning-till-filfragmentet-och-retrograd-behandling/amp/ and https://www.internetodontologi.se/endodonti/filfraktur-rotfyllning-till-filfragmentet-och-retrograd-behandling/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/filfraktur-rotfyllning-till-filfragmentet-och-retrograd-behandling/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/horisontella-rotfrakturer-endodontiska-behandlingar/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/horisontella-rotfrakturer-endodontiska-behandlingar/amp/ and https://www.internetodontologi.se/endodonti/horisontella-rotfrakturer-endodontiska-behandlingar/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/horisontella-rotfrakturer-endodontiska-behandlingar/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/intern-blekning-av-rotfyllda-tander/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/intern-blekning-av-rotfyllda-tander/amp/ and https://www.internetodontologi.se/endodonti/intern-blekning-av-rotfyllda-tander/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/intern-blekning-av-rotfyllda-tander/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/kariesexkavering-till-pulpalesion/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/kariesexkavering-till-pulpalesion/amp/ and https://www.internetodontologi.se/endodonti/kariesexkavering-till-pulpalesion/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/kariesexkavering-till-pulpalesion/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/temporara-forband/
+14:04:02	Warning: 	File has moved from https://www.internetodontologi.se/cariologi/temporara-forband/ to /endodonti/temporara-forband/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/overkappning-och-djup-overkappningpartiell-pulpotomi/
+14:04:02	Warning: 	File has moved from https://www.internetodontologi.se/cariologi/overkappning-och-djup-overkappningpartiell-pulpotomi/ to /endodonti/overkappning-och-djup-overkappningpartiell-pulpotomi/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/maskinell-instrumentering/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/maskinell-instrumentering/amp/ and https://www.internetodontologi.se/endodonti/maskinell-instrumentering/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/maskinell-instrumentering/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/atypisk-odontalgi-idiopatiskneuropatisk-tandsmarta/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/atypisk-odontalgi-idiopatiskneuropatisk-tandsmarta/amp/ and https://www.internetodontologi.se/endodonti/atypisk-odontalgi-idiopatiskneuropatisk-tandsmarta/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/atypisk-odontalgi-idiopatiskneuropatisk-tandsmarta/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/nonvital-pulpa/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/nonvital-pulpa/amp/ and https://www.internetodontologi.se/endodonti/nonvital-pulpa/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/nonvital-pulpa/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/overkappning-och-djup-overkappningpartiell-pulpotomi/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/overkappning-och-djup-overkappningpartiell-pulpotomi/amp/ and https://www.internetodontologi.se/endodonti/overkappning-och-djup-overkappningpartiell-pulpotomi/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/overkappning-och-djup-overkappningpartiell-pulpotomi/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/overkappningsmaterial/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/overkappningsmaterial/amp/ and https://www.internetodontologi.se/endodonti/overkappningsmaterial/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/overkappningsmaterial/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/benaugmentation-vid-implantatbehandling/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/benaugmentation-vid-implantatbehandling/amp/ and https://www.internetodontologi.se/kakkirurgi/benaugmentation-vid-implantatbehandling/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/benaugmentation-vid-implantatbehandling/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/benigna-tumorer/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/benigna-tumorer/amp/ and https://www.internetodontologi.se/kakkirurgi/benigna-tumorer/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/benigna-tumorer/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/cystor-i-mun-och-kakregionen/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/cystor-i-mun-och-kakregionen/amp/ and https://www.internetodontologi.se/kakkirurgi/cystor-i-mun-och-kakregionen/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/cystor-i-mun-och-kakregionen/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/decoronering-av-ankylotisk-framtand-efter-trauma/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/decoronering-av-ankylotisk-framtand-efter-trauma/amp/ and https://www.internetodontologi.se/pedodonti/decoronering-av-ankylotisk-framtand-efter-trauma/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/decoronering-av-ankylotisk-framtand-efter-trauma/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/dental-sinuit/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/dental-sinuit/amp/ and https://www.internetodontologi.se/kakkirurgi/dental-sinuit/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/dental-sinuit/amp/
+14:04:02	Error: 	"Not Found" (404) at link https://www.internetodontologi.se/komplikationer-vid-dento-alveolar-kirurgi/ (from https://www.internetodontologi.se/kakkirurgi/dental-sinuit/)
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/diskreponering/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/diskreponering/amp/ and https://www.internetodontologi.se/kakkirurgi/diskreponering/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/diskreponering/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/eminektomi-kirurgisk-reduktion-av-tuberculum-artikulare/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/eminektomi-kirurgisk-reduktion-av-tuberculum-artikulare/amp/ and https://www.internetodontologi.se/kakkirurgi/eminektomi-kirurgisk-reduktion-av-tuberculum-artikulare/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/eminektomi-kirurgisk-reduktion-av-tuberculum-artikulare/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/implantatkirurgiska-komplikationer/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/implantatkirurgiska-komplikationer/amp/ and https://www.internetodontologi.se/kakkirurgi/implantatkirurgiska-komplikationer/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/implantatkirurgiska-komplikationer/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/intraoral-vertikal-ramusosteotomi-ivro/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/intraoral-vertikal-ramusosteotomi-ivro/amp/ and https://www.internetodontologi.se/kakkirurgi/intraoral-vertikal-ramusosteotomi-ivro/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/intraoral-vertikal-ramusosteotomi-ivro/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/kakledsfrakturer/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/kakledsfrakturer/amp/ and https://www.internetodontologi.se/kakkirurgi/kakledsfrakturer/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/kakledsfrakturer/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/kirurgisk-frilaggning-och-extraktion-av-retinerad-horntand/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/kirurgisk-frilaggning-och-extraktion-av-retinerad-horntand/amp/ and https://www.internetodontologi.se/kakkirurgi/kirurgisk-frilaggning-och-extraktion-av-retinerad-horntand/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/kirurgisk-frilaggning-och-extraktion-av-retinerad-horntand/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/bildgalleri-over-orala-slemhinneforandringar/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/bildgalleri-over-orala-slemhinneforandringar/amp/ and https://www.internetodontologi.se/orofacial-medicin/bildgalleri-over-orala-slemhinneforandringar/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/bildgalleri-over-orala-slemhinneforandringar/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/oral-cancer-och-maligna-tumortecken/
+14:04:02	Warning: 	File has moved from https://www.internetodontologi.se/kakkirurgi/oral-cancer-och-maligna-tumortecken/ to /orofacial-medicin/oral-cancer-och-maligna-tumortecken/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/biopsitagning-i-munhalan/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/biopsitagning-i-munhalan/amp/ and https://www.internetodontologi.se/orofacial-medicin/biopsitagning-i-munhalan/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/biopsitagning-i-munhalan/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/biverkningar-mot-dentala-material/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/biverkningar-mot-dentala-material/amp/ and https://www.internetodontologi.se/orofacial-medicin/biverkningar-mot-dentala-material/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/biverkningar-mot-dentala-material/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/latex-i-tandvarden-risker-och-rekommendationer-2/
+14:04:02	Warning: 	File has moved from https://www.internetodontologi.se/cariologi/latex-i-tandvarden-risker-och-rekommendationer-2/ to /ovrigt/latex-i-tandvarden-risker-och-rekommendationer-2/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/blodningskomplikationer-vid-tandbehandling-som-resultat-av-systemsjukdom-eller-medicinering/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/blodningskomplikationer-vid-tandbehandling-som-resultat-av-systemsjukdom-eller-medicinering/amp/ and https://www.internetodontologi.se/orofacial-medicin/blodningskomplikationer-vid-tandbehandling-som-resultat-av-systemsjukdom-eller-medicinering/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/blodningskomplikationer-vid-tandbehandling-som-resultat-av-systemsjukdom-eller-medicinering/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/burning-mouth-syndrome-munsvedatungsveda/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/burning-mouth-syndrome-munsvedatungsveda/amp/ and https://www.internetodontologi.se/orofacial-medicin/burning-mouth-syndrome-munsvedatungsveda/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/burning-mouth-syndrome-munsvedatungsveda/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/covid-19-och-klinisk-tandvard/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/covid-19-och-klinisk-tandvard/amp/ and https://www.internetodontologi.se/orofacial-medicin/covid-19-och-klinisk-tandvard/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/covid-19-och-klinisk-tandvard/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/erytema-multiforme/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/erytema-multiforme/amp/ and https://www.internetodontologi.se/orofacial-medicin/erytema-multiforme/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/erytema-multiforme/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/fokalutredning/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/fokalutredning/amp/ and https://www.internetodontologi.se/orofacial-medicin/fokalutredning/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/fokalutredning/amp/
+14:04:02	Error: 	"Forbidden" (403) at link https://www.internetodontologi.se/dyn_main.asp?page=283 (from https://www.internetodontologi.se/orofacial-medicin/fokalutredning/)
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/halitosis-dalig-andedrakt/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/halitosis-dalig-andedrakt/amp/ and https://www.internetodontologi.se/orofacial-medicin/halitosis-dalig-andedrakt/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/halitosis-dalig-andedrakt/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/lakemedelsbiverkningar-i-munhalan/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/lakemedelsbiverkningar-i-munhalan/amp/ and https://www.internetodontologi.se/orofacial-medicin/lakemedelsbiverkningar-i-munhalan/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/lakemedelsbiverkningar-i-munhalan/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/leukoplaki-vit-flack-i-slemhinnan/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/leukoplaki-vit-flack-i-slemhinnan/amp/ and https://www.internetodontologi.se/orofacial-medicin/leukoplaki-vit-flack-i-slemhinnan/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/leukoplaki-vit-flack-i-slemhinnan/amp/
+14:04:02	Error: 	"Not Found" (404) at link https://www.internetodontologi.se/olp-oral-lichen-planus/ (from https://www.internetodontologi.se/orofacial-medicin/leukoplaki-vit-flack-i-slemhinnan/)
+14:04:02	Error: 	"Not Found" (404) at link https://www.internetodontologi.se/lichenoid-kontaktreaktion-allergi-mot-fyllningsmaterial/ (from https://www.internetodontologi.se/orofacial-medicin/leukoplaki-vit-flack-i-slemhinnan/)
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/oral-cancer-och-maligna-tumortecken/
+14:04:02	Warning: 	File has moved from https://www.internetodontologi.se/oral-cancer-och-maligna-tumortecken/ to /orofacial-medicin/oral-cancer-och-maligna-tumortecken/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/lichenoid-kontaktreaktion-allergi-mot-fyllningsmaterial/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/lichenoid-kontaktreaktion-allergi-mot-fyllningsmaterial/amp/ and https://www.internetodontologi.se/orofacial-medicin/lichenoid-kontaktreaktion-allergi-mot-fyllningsmaterial/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/lichenoid-kontaktreaktion-allergi-mot-fyllningsmaterial/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/ektopisk-eruption-av-overkaks-6or/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/ektopisk-eruption-av-overkaks-6or/amp/ and https://www.internetodontologi.se/ortodonti/ektopisk-eruption-av-overkaks-6or/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/ektopisk-eruption-av-overkaks-6or/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/entandslucka-i-fronten-luckslutning/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/entandslucka-i-fronten-luckslutning/amp/ and https://www.internetodontologi.se/ortodonti/entandslucka-i-fronten-luckslutning/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/entandslucka-i-fronten-luckslutning/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/entandslucka-i-fronten-platsberedning/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/entandslucka-i-fronten-platsberedning/amp/ and https://www.internetodontologi.se/ortodonti/entandslucka-i-fronten-platsberedning/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/entandslucka-i-fronten-platsberedning/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/forandringar-av-bettavvikelser-fran-3-till-7-ars-alder/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/forandringar-av-bettavvikelser-fran-3-till-7-ars-alder/amp/ and https://www.internetodontologi.se/ortodonti/forandringar-av-bettavvikelser-fran-3-till-7-ars-alder/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/forandringar-av-bettavvikelser-fran-3-till-7-ars-alder/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/forankringsforstarkning-med-hjalp-av-miniskruvar-vid-ortodontibehandlingar/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/forankringsforstarkning-med-hjalp-av-miniskruvar-vid-ortodontibehandlingar/amp/ and https://www.internetodontologi.se/ortodonti/forankringsforstarkning-med-hjalp-av-miniskruvar-vid-ortodontibehandlingar/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/forankringsforstarkning-med-hjalp-av-miniskruvar-vid-ortodontibehandlingar/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/kak-och-ansiktstillvaxt-forandringar-over-tid/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/kak-och-ansiktstillvaxt-forandringar-over-tid/amp/ and https://www.internetodontologi.se/ortodonti/kak-och-ansiktstillvaxt-forandringar-over-tid/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/kak-och-ansiktstillvaxt-forandringar-over-tid/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/korsbett-enkelsidigt/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/korsbett-enkelsidigt/amp/ and https://www.internetodontologi.se/ortodonti/korsbett-enkelsidigt/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/korsbett-enkelsidigt/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/kraniofaciala-syndrom-ortodonti-som-del-i-bettrehabilitering/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/kraniofaciala-syndrom-ortodonti-som-del-i-bettrehabilitering/amp/ and https://www.internetodontologi.se/ortodonti/kraniofaciala-syndrom-ortodonti-som-del-i-bettrehabilitering/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/kraniofaciala-syndrom-ortodonti-som-del-i-bettrehabilitering/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/molar-incisor-hypomineralization-mih/amp/
+14:04:02	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/molar-incisor-hypomineralization-mih/amp/ and https://www.internetodontologi.se/pedodonti/molar-incisor-hypomineralization-mih/amp/
+14:04:02	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/molar-incisor-hypomineralization-mih/amp/
+14:04:02	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/amelogenesis-imperfekta-protetisk-behandling/
+14:04:02	Warning: 	File has moved from https://www.internetodontologi.se/pedodonti/amelogenesis-imperfekta-protetisk-behandling/ to /protetik/amelogenesis-imperfekta-protetisk-behandling/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/parodontologi/behandlingsprinciper-vid-gingival-retraktion/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/parodontologi/behandlingsprinciper-vid-gingival-retraktion/amp/ and https://www.internetodontologi.se/parodontologi/behandlingsprinciper-vid-gingival-retraktion/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/parodontologi/behandlingsprinciper-vid-gingival-retraktion/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/parodontologi/gingival-retraktion/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/parodontologi/gingival-retraktion/amp/ and https://www.internetodontologi.se/parodontologi/gingival-retraktion/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/parodontologi/gingival-retraktion/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/parodontologi/implantat-och-tobaksrokning/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/parodontologi/implantat-och-tobaksrokning/amp/ and https://www.internetodontologi.se/parodontologi/implantat-och-tobaksrokning/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/parodontologi/implantat-och-tobaksrokning/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/parodontologi/klassifikation-av-parodontala-tillstand-plackinducerad-gingivit-och-parodontit/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/parodontologi/klassifikation-av-parodontala-tillstand-plackinducerad-gingivit-och-parodontit/amp/ and https://www.internetodontologi.se/parodontologi/klassifikation-av-parodontala-tillstand-plackinducerad-gingivit-och-parodontit/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/parodontologi/klassifikation-av-parodontala-tillstand-plackinducerad-gingivit-och-parodontit/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/parodontologi/munhygien-och-egenvard/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/parodontologi/munhygien-och-egenvard/amp/ and https://www.internetodontologi.se/parodontologi/munhygien-och-egenvard/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/parodontologi/munhygien-och-egenvard/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/parodontologi/parodontalkirurgi/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/parodontologi/parodontalkirurgi/amp/ and https://www.internetodontologi.se/parodontologi/parodontalkirurgi/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/parodontologi/parodontalkirurgi/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/parodontologi/parodontalkirurgi-emaljmatrixprotein-som-tillagg-till-lambakirurgi/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/parodontologi/parodontalkirurgi-emaljmatrixprotein-som-tillagg-till-lambakirurgi/amp/ and https://www.internetodontologi.se/parodontologi/parodontalkirurgi-emaljmatrixprotein-som-tillagg-till-lambakirurgi/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/parodontologi/parodontalkirurgi-emaljmatrixprotein-som-tillagg-till-lambakirurgi/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/parodontologi/parodontit-och-diabetes/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/parodontologi/parodontit-och-diabetes/amp/ and https://www.internetodontologi.se/parodontologi/parodontit-och-diabetes/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/parodontologi/parodontit-och-diabetes/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/parodontologi/parodontit-och-hjartkarlsjukdomar/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/parodontologi/parodontit-och-hjartkarlsjukdomar/amp/ and https://www.internetodontologi.se/parodontologi/parodontit-och-hjartkarlsjukdomar/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/parodontologi/parodontit-och-hjartkarlsjukdomar/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/parodontologi/parodontit-och-systemsjukdomar/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/parodontologi/parodontit-och-systemsjukdomar/amp/ and https://www.internetodontologi.se/parodontologi/parodontit-och-systemsjukdomar/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/parodontologi/parodontit-och-systemsjukdomar/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/parodontologi/parodontit-epidemiologi/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/parodontologi/parodontit-epidemiologi/amp/ and https://www.internetodontologi.se/parodontologi/parodontit-epidemiologi/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/parodontologi/parodontit-epidemiologi/amp/
+14:04:03	Error: 	"Not Found" (404) at link https://www.internetodontologi.se/parodontit-och-systemsjukdomar/ (from https://www.internetodontologi.se/parodontologi/parodontit-epidemiologi/)
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/parodontologi/peri-implantit-och-mukosit/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/parodontologi/peri-implantit-och-mukosit/amp/ and https://www.internetodontologi.se/parodontologi/peri-implantit-och-mukosit/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/parodontologi/peri-implantit-och-mukosit/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/parodontologi/depuration-avlagsnande-av-tandsten-och-biofilm/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/parodontologi/depuration-avlagsnande-av-tandsten-och-biofilm/amp/ and https://www.internetodontologi.se/parodontologi/depuration-avlagsnande-av-tandsten-och-biofilm/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/parodontologi/depuration-avlagsnande-av-tandsten-och-biofilm/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/skapa-svensk-kvalitetsregister-for-karies-och-parodontit/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/skapa-svensk-kvalitetsregister-for-karies-och-parodontit/amp/ and https://www.internetodontologi.se/cariologi/skapa-svensk-kvalitetsregister-for-karies-och-parodontit/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/skapa-svensk-kvalitetsregister-for-karies-och-parodontit/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/basundersokningar-inom-barn-och-ungdomstandvarden-intervall-och-vad-som-ska-inga-i-en-basundersokning-vid-olika-aldrar/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/basundersokningar-inom-barn-och-ungdomstandvarden-intervall-och-vad-som-ska-inga-i-en-basundersokning-vid-olika-aldrar/amp/ and https://www.internetodontologi.se/pedodonti/basundersokningar-inom-barn-och-ungdomstandvarden-intervall-och-vad-som-ska-inga-i-en-basundersokning-vid-olika-aldrar/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/basundersokningar-inom-barn-och-ungdomstandvarden-intervall-och-vad-som-ska-inga-i-en-basundersokning-vid-olika-aldrar/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/behandling-av-djup-dentinkaries-med-risk-for-pulpaexponering-i-vitala-symtomfria-primara-tander/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/behandling-av-djup-dentinkaries-med-risk-for-pulpaexponering-i-vitala-symtomfria-primara-tander/amp/ and https://www.internetodontologi.se/pedodonti/behandling-av-djup-dentinkaries-med-risk-for-pulpaexponering-i-vitala-symtomfria-primara-tander/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/behandling-av-djup-dentinkaries-med-risk-for-pulpaexponering-i-vitala-symtomfria-primara-tander/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/behandling-av-karies-i-det-primara-bettet/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/behandling-av-karies-i-det-primara-bettet/amp/ and https://www.internetodontologi.se/pedodonti/behandling-av-karies-i-det-primara-bettet/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/behandling-av-karies-i-det-primara-bettet/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/dentinogenesis-imperfecta-diagnostik-och-behandling/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/dentinogenesis-imperfecta-diagnostik-och-behandling/amp/ and https://www.internetodontologi.se/pedodonti/dentinogenesis-imperfecta-diagnostik-och-behandling/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/dentinogenesis-imperfecta-diagnostik-och-behandling/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/forebyggande-av-smarta-vid-behandling-av-barn-och-unga/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/forebyggande-av-smarta-vid-behandling-av-barn-och-unga/amp/ and https://www.internetodontologi.se/pedodonti/forebyggande-av-smarta-vid-behandling-av-barn-och-unga/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/forebyggande-av-smarta-vid-behandling-av-barn-och-unga/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/frenulumplastik/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/frenulumplastik/amp/ and https://www.internetodontologi.se/pedodonti/frenulumplastik/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/frenulumplastik/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/mikroabrasion/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/mikroabrasion/amp/ and https://www.internetodontologi.se/pedodonti/mikroabrasion/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/mikroabrasion/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/somnapne-hos-barn-ur-ett-odontologiskt-perspektiv/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/somnapne-hos-barn-ur-ett-odontologiskt-perspektiv/amp/ and https://www.internetodontologi.se/pedodonti/somnapne-hos-barn-ur-ett-odontologiskt-perspektiv/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/somnapne-hos-barn-ur-ett-odontologiskt-perspektiv/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/strukturerad-inskolning-for-att-klara-tandvard/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/strukturerad-inskolning-for-att-klara-tandvard/amp/ and https://www.internetodontologi.se/pedodonti/strukturerad-inskolning-for-att-klara-tandvard/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/strukturerad-inskolning-for-att-klara-tandvard/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/duplikatprotes/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/duplikatprotes/amp/ and https://www.internetodontologi.se/protetik/duplikatprotes/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/duplikatprotes/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/entandslucka-fran-3a-till-3a/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/entandslucka-fran-3a-till-3a/amp/ and https://www.internetodontologi.se/protetik/entandslucka-fran-3a-till-3a/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/entandslucka-fran-3a-till-3a/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/etsbroar/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/etsbroar/amp/ and https://www.internetodontologi.se/protetik/etsbroar/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/etsbroar/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/helprotes/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/helprotes/amp/ and https://www.internetodontologi.se/protetik/helprotes/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/helprotes/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/rebasering-av-helprotes/
+14:04:03	Warning: 	File has moved from https://www.internetodontologi.se/rebasering-av-helprotes/ to /protetik/rebasering-av-helprotes/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/myodynamisk-hel-underkaksprotes/
+14:04:03	Warning: 	File has moved from https://www.internetodontologi.se/myodynamisk-hel-underkaksprotes/ to /protetik/myodynamisk-hel-underkaksprotes/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/implantatbro-vid-flertandslucka/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/implantatbro-vid-flertandslucka/amp/ and https://www.internetodontologi.se/protetik/implantatbro-vid-flertandslucka/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/implantatbro-vid-flertandslucka/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/implantatbro-vid-total-tandloshet/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/implantatbro-vid-total-tandloshet/amp/ and https://www.internetodontologi.se/protetik/implantatbro-vid-total-tandloshet/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/implantatbro-vid-total-tandloshet/amp/
+14:04:03	Error: 	"Not Found" (404) at link https://www.internetodontologi.se/author/barkarmo-sargon/ (from https://www.internetodontologi.se/protetik/implantatbro-vid-total-tandloshet/)
+14:04:03	Error: 	"Not Found" (404) at link https://www.internetodontologi.se/author/franke-stenport-victoria/ (from https://www.internetodontologi.se/protetik/implantatbro-vid-total-tandloshet/)
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/implantatkomplikationer-protetiska/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/implantatkomplikationer-protetiska/amp/ and https://www.internetodontologi.se/protetik/implantatkomplikationer-protetiska/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/implantatkomplikationer-protetiska/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/implantatretinerad-tackprotes/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/implantatretinerad-tackprotes/amp/ and https://www.internetodontologi.se/protetik/implantatretinerad-tackprotes/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/implantatretinerad-tackprotes/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/implantatstodd-krona/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/implantatstodd-krona/amp/ and https://www.internetodontologi.se/protetik/implantatstodd-krona/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/implantatstodd-krona/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/kakregistrering-for-proteser/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/kakregistrering-for-proteser/amp/ and https://www.internetodontologi.se/protetik/kakregistrering-for-proteser/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/kakregistrering-for-proteser/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/materialval-vid-implantatprotetik/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/materialval-vid-implantatprotetik/amp/ and https://www.internetodontologi.se/protetik/materialval-vid-implantatprotetik/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/materialval-vid-implantatprotetik/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/materialval-vid-tandstodda-mk-konstruktioner/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/materialval-vid-tandstodda-mk-konstruktioner/amp/ and https://www.internetodontologi.se/protetik/materialval-vid-tandstodda-mk-konstruktioner/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/materialval-vid-tandstodda-mk-konstruktioner/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/radiologi/lagesbestamning-av-mandibularkanalen-i-relation-till-tredje-molaren/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/radiologi/lagesbestamning-av-mandibularkanalen-i-relation-till-tredje-molaren/amp/ and https://www.internetodontologi.se/radiologi/lagesbestamning-av-mandibularkanalen-i-relation-till-tredje-molaren/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/radiologi/lagesbestamning-av-mandibularkanalen-i-relation-till-tredje-molaren/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/radiologi/magnetresonans/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/radiologi/magnetresonans/amp/ and https://www.internetodontologi.se/radiologi/magnetresonans/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/radiologi/magnetresonans/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/radiologi/normalanatomi-i-dentala-rontgenbilder/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/radiologi/normalanatomi-i-dentala-rontgenbilder/amp/ and https://www.internetodontologi.se/radiologi/normalanatomi-i-dentala-rontgenbilder/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/radiologi/normalanatomi-i-dentala-rontgenbilder/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/radiologi/om-straldoser-deras-storlek-vid-olika-undersokningar-och-nytta-respektive-risk-med-diagnostisk-rontgenstralning/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/radiologi/om-straldoser-deras-storlek-vid-olika-undersokningar-och-nytta-respektive-risk-med-diagnostisk-rontgenstralning/amp/ and https://www.internetodontologi.se/radiologi/om-straldoser-deras-storlek-vid-olika-undersokningar-och-nytta-respektive-risk-med-diagnostisk-rontgenstralning/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/radiologi/om-straldoser-deras-storlek-vid-olika-undersokningar-och-nytta-respektive-risk-med-diagnostisk-rontgenstralning/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/radiologi/parallellteknik/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/radiologi/parallellteknik/amp/ and https://www.internetodontologi.se/radiologi/parallellteknik/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/radiologi/parallellteknik/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/radiologi/positionering-av-patienten-vid-panoramarontgen/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/radiologi/positionering-av-patienten-vid-panoramarontgen/amp/ and https://www.internetodontologi.se/radiologi/positionering-av-patienten-vid-panoramarontgen/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/radiologi/positionering-av-patienten-vid-panoramarontgen/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/radiologi/radiologi-och-implantat/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/radiologi/radiologi-och-implantat/amp/ and https://www.internetodontologi.se/radiologi/radiologi-och-implantat/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/radiologi/radiologi-och-implantat/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/radiologi/rontgenbilder-vid-dentalt-trauma/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/radiologi/rontgenbilder-vid-dentalt-trauma/amp/ and https://www.internetodontologi.se/radiologi/rontgenbilder-vid-dentalt-trauma/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/radiologi/rontgenbilder-vid-dentalt-trauma/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/ovrigt/latex-i-tandvarden-risker-och-rekommendationer-2/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ovrigt/latex-i-tandvarden-risker-och-rekommendationer-2/amp/ and https://www.internetodontologi.se/ovrigt/latex-i-tandvarden-risker-och-rekommendationer-2/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ovrigt/latex-i-tandvarden-risker-och-rekommendationer-2/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/ovrigt/mikrobiologisk-provtagning-och-diagnostik-av-infektiosa-tillstand-i-munhalan/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ovrigt/mikrobiologisk-provtagning-och-diagnostik-av-infektiosa-tillstand-i-munhalan/amp/ and https://www.internetodontologi.se/ovrigt/mikrobiologisk-provtagning-och-diagnostik-av-infektiosa-tillstand-i-munhalan/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ovrigt/mikrobiologisk-provtagning-och-diagnostik-av-infektiosa-tillstand-i-munhalan/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/ovrigt/nationella-riktlinjer-for-tandvard/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ovrigt/nationella-riktlinjer-for-tandvard/amp/ and https://www.internetodontologi.se/ovrigt/nationella-riktlinjer-for-tandvard/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ovrigt/nationella-riktlinjer-for-tandvard/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/primar-kariesprevention-tidigt-i-livet-bevara-det-friska-friskt/
+14:04:03	Warning: 	File has moved from https://www.internetodontologi.se/pedodonti/primar-kariesprevention-tidigt-i-livet-bevara-det-friska-friskt/ to /cariologi/primar-kariesprevention-tidigt-i-livet-bevara-det-friska-friskt/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/ovrigt/nationella-riktlinjer-for-tandvard-tips-for-kliniskt-verksamma/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ovrigt/nationella-riktlinjer-for-tandvard-tips-for-kliniskt-verksamma/amp/ and https://www.internetodontologi.se/ovrigt/nationella-riktlinjer-for-tandvard-tips-for-kliniskt-verksamma/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ovrigt/nationella-riktlinjer-for-tandvard-tips-for-kliniskt-verksamma/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/fissurforsegling-av-primara-och-permanenta-tander/
+14:04:03	Warning: 	File has moved from https://www.internetodontologi.se/pedodonti/fissurforsegling-av-primara-och-permanenta-tander/ to /cariologi/fissurforsegling-av-primara-och-permanenta-tander/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/ovrigt/odontologiskt-underlag-for-identifiering-av-avlidna-personer/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ovrigt/odontologiskt-underlag-for-identifiering-av-avlidna-personer/amp/ and https://www.internetodontologi.se/ovrigt/odontologiskt-underlag-for-identifiering-av-avlidna-personer/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ovrigt/odontologiskt-underlag-for-identifiering-av-avlidna-personer/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/ovrigt/skadedokumentation-i-tandvarden/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ovrigt/skadedokumentation-i-tandvarden/amp/ and https://www.internetodontologi.se/ovrigt/skadedokumentation-i-tandvarden/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ovrigt/skadedokumentation-i-tandvarden/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/ovrigt/tandvardsstoden/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ovrigt/tandvardsstoden/amp/ and https://www.internetodontologi.se/ovrigt/tandvardsstoden/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ovrigt/tandvardsstoden/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/populationsinriktad-anvandning-av-fluortandkram-i-olika-aldrar/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/populationsinriktad-anvandning-av-fluortandkram-i-olika-aldrar/amp/ and https://www.internetodontologi.se/cariologi/populationsinriktad-anvandning-av-fluortandkram-i-olika-aldrar/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/populationsinriktad-anvandning-av-fluortandkram-i-olika-aldrar/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/tandlucka-i-sidosegment-luckslutning/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/tandlucka-i-sidosegment-luckslutning/amp/ and https://www.internetodontologi.se/ortodonti/tandlucka-i-sidosegment-luckslutning/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/tandlucka-i-sidosegment-luckslutning/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/muntorrhet/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/muntorrhet/amp/ and https://www.internetodontologi.se/orofacial-medicin/muntorrhet/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/muntorrhet/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/selektiv-och-icke-selektiv-kariesexkavering-utan-pulpalesion/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/selektiv-och-icke-selektiv-kariesexkavering-utan-pulpalesion/amp/ and https://www.internetodontologi.se/cariologi/selektiv-och-icke-selektiv-kariesexkavering-utan-pulpalesion/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/selektiv-och-icke-selektiv-kariesexkavering-utan-pulpalesion/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/quad-helix-qh/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/quad-helix-qh/amp/ and https://www.internetodontologi.se/ortodonti/quad-helix-qh/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/quad-helix-qh/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/kirurgiskt-dranage-av-akuta-orala-infektioner/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/kirurgiskt-dranage-av-akuta-orala-infektioner/amp/ and https://www.internetodontologi.se/kakkirurgi/kirurgiskt-dranage-av-akuta-orala-infektioner/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/kirurgiskt-dranage-av-akuta-orala-infektioner/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/antibiotikabehandling-av-odontogena-infektioner/
+14:04:03	Warning: 	File has moved from https://www.internetodontologi.se/antibiotikabehandling-av-odontogena-infektioner/ to /orofacial-medicin/antibiotikabehandling-av-odontogena-infektioner/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/oral-mucocele/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/oral-mucocele/amp/ and https://www.internetodontologi.se/orofacial-medicin/oral-mucocele/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/oral-mucocele/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/komplikationer-vid-dento-alveolar-kirurgi/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/komplikationer-vid-dento-alveolar-kirurgi/amp/ and https://www.internetodontologi.se/kakkirurgi/komplikationer-vid-dento-alveolar-kirurgi/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/komplikationer-vid-dento-alveolar-kirurgi/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/symtomatisk-behandling-enbart-utrymning-av-pulpakavum/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/symtomatisk-behandling-enbart-utrymning-av-pulpakavum/amp/ and https://www.internetodontologi.se/endodonti/symtomatisk-behandling-enbart-utrymning-av-pulpakavum/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/symtomatisk-behandling-enbart-utrymning-av-pulpakavum/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/symtomatisk-behandling-fullstandig-utrensning-av-rotkanalsystemet/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/symtomatisk-behandling-fullstandig-utrensning-av-rotkanalsystemet/amp/ and https://www.internetodontologi.se/endodonti/symtomatisk-behandling-fullstandig-utrensning-av-rotkanalsystemet/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/symtomatisk-behandling-fullstandig-utrensning-av-rotkanalsystemet/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/smarta-och-funktionsstorning-i-kakmuskulatur/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/smarta-och-funktionsstorning-i-kakmuskulatur/amp/ and https://www.internetodontologi.se/bettfysiologi/smarta-och-funktionsstorning-i-kakmuskulatur/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/smarta-och-funktionsstorning-i-kakmuskulatur/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/smarta-och-funktionsstorning-i-kakmuskulatur-information-och-beteendepaverkande-behandling/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/smarta-och-funktionsstorning-i-kakmuskulatur-information-och-beteendepaverkande-behandling/amp/ and https://www.internetodontologi.se/bettfysiologi/smarta-och-funktionsstorning-i-kakmuskulatur-information-och-beteendepaverkande-behandling/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/smarta-och-funktionsstorning-i-kakmuskulatur-information-och-beteendepaverkande-behandling/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/smarta-och-funktionsstorning-i-kakmuskulatur-motorisk-aktivering/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/smarta-och-funktionsstorning-i-kakmuskulatur-motorisk-aktivering/amp/ and https://www.internetodontologi.se/bettfysiologi/smarta-och-funktionsstorning-i-kakmuskulatur-motorisk-aktivering/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/smarta-och-funktionsstorning-i-kakmuskulatur-motorisk-aktivering/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/transkutan-elektrisk-nervstimulering-tens-stimulering-for-smartlindring/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/transkutan-elektrisk-nervstimulering-tens-stimulering-for-smartlindring/amp/ and https://www.internetodontologi.se/bettfysiologi/transkutan-elektrisk-nervstimulering-tens-stimulering-for-smartlindring/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/transkutan-elektrisk-nervstimulering-tens-stimulering-for-smartlindring/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/pulserande-elektromagnetiska-falt-pemf-stimulering-for-smartlindring/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/pulserande-elektromagnetiska-falt-pemf-stimulering-for-smartlindring/amp/ and https://www.internetodontologi.se/bettfysiologi/pulserande-elektromagnetiska-falt-pemf-stimulering-for-smartlindring/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/pulserande-elektromagnetiska-falt-pemf-stimulering-for-smartlindring/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/rotbehandling-revision/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/rotbehandling-revision/amp/ and https://www.internetodontologi.se/endodonti/rotbehandling-revision/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/rotbehandling-revision/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/rotfylld-tand/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/rotfylld-tand/amp/ and https://www.internetodontologi.se/endodonti/rotfylld-tand/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/rotfylld-tand/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/rotresorption-extern/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/rotresorption-extern/amp/ and https://www.internetodontologi.se/endodonti/rotresorption-extern/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/rotresorption-extern/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/tobaksrelaterade-forandringar-i-munslemhinnan/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/tobaksrelaterade-forandringar-i-munslemhinnan/amp/ and https://www.internetodontologi.se/orofacial-medicin/tobaksrelaterade-forandringar-i-munslemhinnan/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/tobaksrelaterade-forandringar-i-munslemhinnan/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/tobaksrelaterade-forandringar-i-munslemhinnan/www.oralmedicine.se/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/tobaksrelaterade-forandringar-i-munslemhinnan/www.oralmedicine.se/ and https://www.internetodontologi.se/orofacial-medicin/tobaksrelaterade-forandringar-i-munslemhinnan/www.oralmedicine.se/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/tobaksrelaterade-forandringar-i-munslemhinnan/www.oralmedicine.se/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/oralmedicinsk-remiss/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/oralmedicinsk-remiss/amp/ and https://www.internetodontologi.se/orofacial-medicin/oralmedicinsk-remiss/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/oralmedicinsk-remiss/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/onlays-helkeramiska/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/onlays-helkeramiska/amp/ and https://www.internetodontologi.se/protetik/onlays-helkeramiska/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/onlays-helkeramiska/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/salivdiagnostik/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/salivdiagnostik/amp/ and https://www.internetodontologi.se/cariologi/salivdiagnostik/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/salivdiagnostik/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/smartskola-vid-orofacial-smarta-och-kakfunktionsstorning/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/smartskola-vid-orofacial-smarta-och-kakfunktionsstorning/amp/ and https://www.internetodontologi.se/bettfysiologi/smartskola-vid-orofacial-smarta-och-kakfunktionsstorning/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/smartskola-vid-orofacial-smarta-och-kakfunktionsstorning/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/transversella-avvikelser/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/transversella-avvikelser/amp/ and https://www.internetodontologi.se/ortodonti/transversella-avvikelser/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/transversella-avvikelser/amp/
+14:04:03	Error: 	"Not Found" (404) at link https://www.internetodontologi.se/sagittala-avvikelser/ (from https://www.internetodontologi.se/ortodonti/transversella-avvikelser/)
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/ortodontiremiss/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/ortodontiremiss/amp/ and https://www.internetodontologi.se/ortodonti/ortodontiremiss/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/ortodontiremiss/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/symtomatisk-apikal-parodontit/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/symtomatisk-apikal-parodontit/amp/ and https://www.internetodontologi.se/endodonti/symtomatisk-apikal-parodontit/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/symtomatisk-apikal-parodontit/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/kirurgiskt-dranage-av-akuta-orala-infektioner/
+14:04:03	Warning: 	File has moved from https://www.internetodontologi.se/kirurgiskt-dranage-av-akuta-orala-infektioner/ to /kakkirurgi/kirurgiskt-dranage-av-akuta-orala-infektioner/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/pulpanekros-med-apikal-parodontit-rotbehandling-vid-ett-behandlingstillfalle/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/pulpanekros-med-apikal-parodontit-rotbehandling-vid-ett-behandlingstillfalle/amp/ and https://www.internetodontologi.se/endodonti/pulpanekros-med-apikal-parodontit-rotbehandling-vid-ett-behandlingstillfalle/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/pulpanekros-med-apikal-parodontit-rotbehandling-vid-ett-behandlingstillfalle/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/pulpanekros-utan-apikal-parodontit-rotbehandling-nekrosbehandling/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/pulpanekros-utan-apikal-parodontit-rotbehandling-nekrosbehandling/amp/ and https://www.internetodontologi.se/endodonti/pulpanekros-utan-apikal-parodontit-rotbehandling-nekrosbehandling/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/pulpanekros-utan-apikal-parodontit-rotbehandling-nekrosbehandling/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/temporara-forband/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/temporara-forband/amp/ and https://www.internetodontologi.se/endodonti/temporara-forband/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/temporara-forband/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/rotperforationer/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/rotperforationer/amp/ and https://www.internetodontologi.se/endodonti/rotperforationer/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/rotperforationer/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/pulpotomi/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/pulpotomi/amp/ and https://www.internetodontologi.se/endodonti/pulpotomi/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/pulpotomi/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/lingua-geografica-flackar-pa-tungan/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/lingua-geografica-flackar-pa-tungan/amp/ and https://www.internetodontologi.se/orofacial-medicin/lingua-geografica-flackar-pa-tungan/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/lingua-geografica-flackar-pa-tungan/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/vital-pulpa/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/vital-pulpa/amp/ and https://www.internetodontologi.se/endodonti/vital-pulpa/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/vital-pulpa/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/overkappning-och-djup-overkappningpartiell-pulpotomi/
+14:04:03	Warning: 	File has moved from https://www.internetodontologi.se/overkappning-och-djup-overkappningpartiell-pulpotomi/ to /endodonti/overkappning-och-djup-overkappningpartiell-pulpotomi/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/lakemedelsrelaterad-kakbensnekros-mronj/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/lakemedelsrelaterad-kakbensnekros-mronj/amp/ and https://www.internetodontologi.se/kakkirurgi/lakemedelsrelaterad-kakbensnekros-mronj/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/lakemedelsrelaterad-kakbensnekros-mronj/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/stora-overbett-hos-barn/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/stora-overbett-hos-barn/amp/ and https://www.internetodontologi.se/ortodonti/stora-overbett-hos-barn/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/stora-overbett-hos-barn/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/ocklusion-smarta-och-funktionsstorning/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/ocklusion-smarta-och-funktionsstorning/amp/ and https://www.internetodontologi.se/bettfysiologi/ocklusion-smarta-och-funktionsstorning/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/ocklusion-smarta-och-funktionsstorning/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/rebasering-av-helprotes/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/rebasering-av-helprotes/amp/ and https://www.internetodontologi.se/protetik/rebasering-av-helprotes/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/rebasering-av-helprotes/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/myodynamisk-hel-underkaksprotes/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/myodynamisk-hel-underkaksprotes/amp/ and https://www.internetodontologi.se/protetik/myodynamisk-hel-underkaksprotes/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/myodynamisk-hel-underkaksprotes/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/protes-och-munhygien/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/protes-och-munhygien/amp/ and https://www.internetodontologi.se/protetik/protes-och-munhygien/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/protes-och-munhygien/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/partialprotes-konstruktionsprinciper/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/partialprotes-konstruktionsprinciper/amp/ and https://www.internetodontologi.se/protetik/partialprotes-konstruktionsprinciper/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/partialprotes-konstruktionsprinciper/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/pemfigoid/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/pemfigoid/amp/ and https://www.internetodontologi.se/orofacial-medicin/pemfigoid/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/pemfigoid/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/mandibelfrakturer/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/mandibelfrakturer/amp/ and https://www.internetodontologi.se/kakkirurgi/mandibelfrakturer/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/mandibelfrakturer/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/kakledsfrakturer/
+14:04:03	Warning: 	File has moved from https://www.internetodontologi.se/bettfysiologi/kakledsfrakturer/ to /kakkirurgi/kakledsfrakturer/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/mellanansiktsfrakturer-le-fort-frakturer/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/mellanansiktsfrakturer-le-fort-frakturer/amp/ and https://www.internetodontologi.se/kakkirurgi/mellanansiktsfrakturer-le-fort-frakturer/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/mellanansiktsfrakturer-le-fort-frakturer/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/ovre-och-mellansiktsfrakturer/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/ovre-och-mellansiktsfrakturer/amp/ and https://www.internetodontologi.se/kakkirurgi/ovre-och-mellansiktsfrakturer/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/ovre-och-mellansiktsfrakturer/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/tandstodd-bro-med-extension/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/tandstodd-bro-med-extension/amp/ and https://www.internetodontologi.se/protetik/tandstodd-bro-med-extension/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/tandstodd-bro-med-extension/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/tandstodd-bro-med-minst-en-stiftforsedd-tand-och-med-extension/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/tandstodd-bro-med-minst-en-stiftforsedd-tand-och-med-extension/amp/ and https://www.internetodontologi.se/protetik/tandstodd-bro-med-minst-en-stiftforsedd-tand-och-med-extension/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/tandstodd-bro-med-minst-en-stiftforsedd-tand-och-med-extension/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/protetikremiss/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/protetikremiss/amp/ and https://www.internetodontologi.se/protetik/protetikremiss/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/protetikremiss/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/protetisk-behandling-i-attritionsbett/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/protetisk-behandling-i-attritionsbett/amp/ and https://www.internetodontologi.se/protetik/protetisk-behandling-i-attritionsbett/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/protetisk-behandling-i-attritionsbett/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/motiverande-samtal/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/motiverande-samtal/amp/ and https://www.internetodontologi.se/cariologi/motiverande-samtal/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/motiverande-samtal/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/professionell-tandrengoring-med-fluorhaltig-polerpasta-mot-karies/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/professionell-tandrengoring-med-fluorhaltig-polerpasta-mot-karies/amp/ and https://www.internetodontologi.se/cariologi/professionell-tandrengoring-med-fluorhaltig-polerpasta-mot-karies/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/professionell-tandrengoring-med-fluorhaltig-polerpasta-mot-karies/amp/
+14:04:03	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/ofg-lappsvullnadansiktssvullnad/amp/
+14:04:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/ofg-lappsvullnadansiktssvullnad/amp/ and https://www.internetodontologi.se/orofacial-medicin/ofg-lappsvullnadansiktssvullnad/amp/
+14:04:03	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/ofg-lappsvullnadansiktssvullnad/amp/
+14:04:04	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/tandvardsradsla-hos-vuxna/amp/
+14:04:04	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/tandvardsradsla-hos-vuxna/amp/ and https://www.internetodontologi.se/orofacial-medicin/tandvardsradsla-hos-vuxna/amp/
+14:04:04	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/tandvardsradsla-hos-vuxna/amp/
+14:04:04	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/oralmotorisk-rehabilitering-av-vuxna-patienter-med-oralmotorisk-dysfunktion/amp/
+14:04:04	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/oralmotorisk-rehabilitering-av-vuxna-patienter-med-oralmotorisk-dysfunktion/amp/ and https://www.internetodontologi.se/orofacial-medicin/oralmotorisk-rehabilitering-av-vuxna-patienter-med-oralmotorisk-dysfunktion/amp/
+14:04:04	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/oralmotorisk-rehabilitering-av-vuxna-patienter-med-oralmotorisk-dysfunktion/amp/
+14:04:04	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/odontologiskt-omhandertagande-av-patienter-vid-stralbehandling-mot-huvud-halsomradet/amp/
+14:04:04	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/odontologiskt-omhandertagande-av-patienter-vid-stralbehandling-mot-huvud-halsomradet/amp/ and https://www.internetodontologi.se/orofacial-medicin/odontologiskt-omhandertagande-av-patienter-vid-stralbehandling-mot-huvud-halsomradet/amp/
+14:04:04	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/odontologiskt-omhandertagande-av-patienter-vid-stralbehandling-mot-huvud-halsomradet/amp/
+14:04:04	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/olp-oral-lichen-planus/amp/
+14:04:04	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/olp-oral-lichen-planus/amp/ and https://www.internetodontologi.se/orofacial-medicin/olp-oral-lichen-planus/amp/
+14:04:04	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/olp-oral-lichen-planus/amp/
+14:04:04	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/tand-och-implantatstodd-bro/amp/
+14:04:04	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/tand-och-implantatstodd-bro/amp/ and https://www.internetodontologi.se/protetik/tand-och-implantatstodd-bro/amp/
+14:04:04	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/tand-och-implantatstodd-bro/amp/
+14:04:04	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/tandvardsradsla-hos-barn/amp/
+14:04:04	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/tandvardsradsla-hos-barn/amp/ and https://www.internetodontologi.se/pedodonti/tandvardsradsla-hos-barn/amp/
+14:04:04	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/tandvardsradsla-hos-barn/amp/
+14:04:04	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/smarta-och-funktionsstorning-i-kak-och-nacksystemet/amp/
+14:04:04	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/smarta-och-funktionsstorning-i-kak-och-nacksystemet/amp/ and https://www.internetodontologi.se/bettfysiologi/smarta-och-funktionsstorning-i-kak-och-nacksystemet/amp/
+14:04:04	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/smarta-och-funktionsstorning-i-kak-och-nacksystemet/amp/
+14:04:04	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/kariologisk-riskbedomning/amp/
+14:04:04	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/kariologisk-riskbedomning/amp/ and https://www.internetodontologi.se/cariologi/kariologisk-riskbedomning/amp/
+14:04:04	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/kariologisk-riskbedomning/amp/
+14:04:04	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/placebo-vid-behandling-av-smartsam-kakfunktionsstorning/amp/
+14:04:04	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/placebo-vid-behandling-av-smartsam-kakfunktionsstorning/amp/ and https://www.internetodontologi.se/bettfysiologi/placebo-vid-behandling-av-smartsam-kakfunktionsstorning/amp/
+14:04:04	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/placebo-vid-behandling-av-smartsam-kakfunktionsstorning/amp/
+14:04:04	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/tandreglering-med-aligners-invisalignteknik/amp/
+14:04:04	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/tandreglering-med-aligners-invisalignteknik/amp/ and https://www.internetodontologi.se/ortodonti/tandreglering-med-aligners-invisalignteknik/amp/
+14:04:04	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/tandreglering-med-aligners-invisalignteknik/amp/
+14:04:04	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/resektion-av-ledhuvudet-ankylosoperation-med-autogen-rekonstruktion/amp/
+14:04:04	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/resektion-av-ledhuvudet-ankylosoperation-med-autogen-rekonstruktion/amp/ and https://www.internetodontologi.se/kakkirurgi/resektion-av-ledhuvudet-ankylosoperation-med-autogen-rekonstruktion/amp/
+14:04:04	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/resektion-av-ledhuvudet-ankylosoperation-med-autogen-rekonstruktion/amp/
+14:04:04	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/rekonstruktion-av-kakleden-med-ledprotes/amp/
+14:04:04	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/rekonstruktion-av-kakleden-med-ledprotes/amp/ and https://www.internetodontologi.se/kakkirurgi/rekonstruktion-av-kakleden-med-ledprotes/amp/
+14:04:04	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/rekonstruktion-av-kakleden-med-ledprotes/amp/
+14:04:04	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/modifierad-kondylotomi/amp/
+14:04:04	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/modifierad-kondylotomi/amp/ and https://www.internetodontologi.se/kakkirurgi/modifierad-kondylotomi/amp/
+14:04:04	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/modifierad-kondylotomi/amp/
+14:04:04	Warning: 	Moved Permanently for https://www.internetodontologi.se/parodontologi/tobaksavvanjning-inom-tandvarden/amp/
+14:04:04	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/parodontologi/tobaksavvanjning-inom-tandvarden/amp/ and https://www.internetodontologi.se/parodontologi/tobaksavvanjning-inom-tandvarden/amp/
+14:04:04	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/parodontologi/tobaksavvanjning-inom-tandvarden/amp/
+14:04:04	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/ilande-tander/amp/
+14:04:04	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/ilande-tander/amp/ and https://www.internetodontologi.se/cariologi/ilande-tander/amp/
+14:04:04	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/ilande-tander/amp/
+14:04:04	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/rotfyllningsmaterial/amp/
+14:04:04	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/rotfyllningsmaterial/amp/ and https://www.internetodontologi.se/endodonti/rotfyllningsmaterial/amp/
+14:04:04	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/rotfyllningsmaterial/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/kariesdetektion-tillaggsmetoder/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/kariesdetektion-tillaggsmetoder/amp/ and https://www.internetodontologi.se/cariologi/kariesdetektion-tillaggsmetoder/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/kariesdetektion-tillaggsmetoder/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/partialprotes/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/partialprotes/amp/ and https://www.internetodontologi.se/protetik/partialprotes/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/partialprotes/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/retinerade-horntander-i-overkaken/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/retinerade-horntander-i-overkaken/amp/ and https://www.internetodontologi.se/ortodonti/retinerade-horntander-i-overkaken/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/retinerade-horntander-i-overkaken/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/reaktiva-nybildningar/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/reaktiva-nybildningar/amp/ and https://www.internetodontologi.se/orofacial-medicin/reaktiva-nybildningar/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/reaktiva-nybildningar/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/tandloshet/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/tandloshet/amp/ and https://www.internetodontologi.se/protetik/tandloshet/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/tandloshet/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/pulpektomi/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/pulpektomi/amp/ and https://www.internetodontologi.se/endodonti/pulpektomi/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/pulpektomi/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/retrograd-rotbehandling/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/retrograd-rotbehandling/amp/ and https://www.internetodontologi.se/endodonti/retrograd-rotbehandling/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/retrograd-rotbehandling/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/luxation-av-kakleden/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/luxation-av-kakleden/amp/ and https://www.internetodontologi.se/bettfysiologi/luxation-av-kakleden/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/luxation-av-kakleden/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/eminektomi-kirurgisk-reduktion-av-tuberculum-artikulare/
+14:04:05	Warning: 	File has moved from https://www.internetodontologi.se/bettfysiologi/eminektomi-kirurgisk-reduktion-av-tuberculum-artikulare/ to /kakkirurgi/eminektomi-kirurgisk-reduktion-av-tuberculum-artikulare/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/kompositmaterial/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/kompositmaterial/amp/ and https://www.internetodontologi.se/cariologi/kompositmaterial/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/kompositmaterial/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/strategier-for-sjukdomsbehandling-av-karies/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/strategier-for-sjukdomsbehandling-av-karies/amp/ and https://www.internetodontologi.se/cariologi/strategier-for-sjukdomsbehandling-av-karies/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/strategier-for-sjukdomsbehandling-av-karies/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/laserbehandling-vid-fyllningsterapi/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/laserbehandling-vid-fyllningsterapi/amp/ and https://www.internetodontologi.se/cariologi/laserbehandling-vid-fyllningsterapi/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/laserbehandling-vid-fyllningsterapi/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/probiotika-och-karies/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/probiotika-och-karies/amp/ and https://www.internetodontologi.se/cariologi/probiotika-och-karies/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/probiotika-och-karies/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/pemfigus-vulgaris-blasor-och-sar-i-munnen/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/pemfigus-vulgaris-blasor-och-sar-i-munnen/amp/ and https://www.internetodontologi.se/orofacial-medicin/pemfigus-vulgaris-blasor-och-sar-i-munnen/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/pemfigus-vulgaris-blasor-och-sar-i-munnen/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/ocklusal-korrigering/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/ocklusal-korrigering/amp/ and https://www.internetodontologi.se/bettfysiologi/ocklusal-korrigering/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/ocklusal-korrigering/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/parodontologi/skri-svenskt-kvalitets-register-for-dentala-implantat/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/parodontologi/skri-svenskt-kvalitets-register-for-dentala-implantat/amp/ and https://www.internetodontologi.se/parodontologi/skri-svenskt-kvalitets-register-for-dentala-implantat/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/parodontologi/skri-svenskt-kvalitets-register-for-dentala-implantat/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/pedodonti/undertal-av-tander/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/pedodonti/undertal-av-tander/amp/ and https://www.internetodontologi.se/pedodonti/undertal-av-tander/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/pedodonti/undertal-av-tander/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/oral-cancer-och-maligna-tumortecken/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/oral-cancer-och-maligna-tumortecken/amp/ and https://www.internetodontologi.se/orofacial-medicin/oral-cancer-och-maligna-tumortecken/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/oral-cancer-och-maligna-tumortecken/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/ortodonti/sagittala-avvikelser/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/ortodonti/sagittala-avvikelser/amp/ and https://www.internetodontologi.se/ortodonti/sagittala-avvikelser/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/ortodonti/sagittala-avvikelser/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/preoperativ-bedomning-av-svarighetsgrad-infor-visdomstandskirurgi/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/preoperativ-bedomning-av-svarighetsgrad-infor-visdomstandskirurgi/amp/ and https://www.internetodontologi.se/kakkirurgi/preoperativ-bedomning-av-svarighetsgrad-infor-visdomstandskirurgi/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/preoperativ-bedomning-av-svarighetsgrad-infor-visdomstandskirurgi/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/kakkirurgi/osteomyelit/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/kakkirurgi/osteomyelit/amp/ and https://www.internetodontologi.se/kakkirurgi/osteomyelit/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/kakkirurgi/osteomyelit/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/tandblekning/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/tandblekning/amp/ and https://www.internetodontologi.se/protetik/tandblekning/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/tandblekning/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/cariologi/kostanalys-och-kostradgivning-i-kliniken/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/cariologi/kostanalys-och-kostradgivning-i-kliniken/amp/ and https://www.internetodontologi.se/cariologi/kostanalys-och-kostradgivning-i-kliniken/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/cariologi/kostanalys-och-kostradgivning-i-kliniken/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/orala-virusinfektioner/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/orala-virusinfektioner/amp/ and https://www.internetodontologi.se/orofacial-medicin/orala-virusinfektioner/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/orala-virusinfektioner/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/bettfysiologi/multidiciplinart-samarbete-vid-svarbehandlad-orofacial-smarta/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/bettfysiologi/multidiciplinart-samarbete-vid-svarbehandlad-orofacial-smarta/amp/ and https://www.internetodontologi.se/bettfysiologi/multidiciplinart-samarbete-vid-svarbehandlad-orofacial-smarta/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/bettfysiologi/multidiciplinart-samarbete-vid-svarbehandlad-orofacial-smarta/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/tandstodd-bro-vid-flertandslucka/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/tandstodd-bro-vid-flertandslucka/amp/ and https://www.internetodontologi.se/protetik/tandstodd-bro-vid-flertandslucka/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/tandstodd-bro-vid-flertandslucka/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/pelare-laboratorieframstalld/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/pelare-laboratorieframstalld/amp/ and https://www.internetodontologi.se/protetik/pelare-laboratorieframstalld/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/pelare-laboratorieframstalld/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/pelare-klinikframstalld/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/pelare-klinikframstalld/amp/ and https://www.internetodontologi.se/protetik/pelare-klinikframstalld/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/pelare-klinikframstalld/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/protetisk-behandling-i-djupa-bett/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/protetisk-behandling-i-djupa-bett/amp/ and https://www.internetodontologi.se/protetik/protetisk-behandling-i-djupa-bett/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/protetisk-behandling-i-djupa-bett/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/tandstodd-bro-pa-tander-med-reducerat-benstod-och-med-extension/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/tandstodd-bro-pa-tander-med-reducerat-benstod-och-med-extension/amp/ and https://www.internetodontologi.se/protetik/tandstodd-bro-pa-tander-med-reducerat-benstod-och-med-extension/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/tandstodd-bro-pa-tander-med-reducerat-benstod-och-med-extension/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/protetik/ortodontisk-distalisering-i-kombination-med-tandstodd-bro/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/protetik/ortodontisk-distalisering-i-kombination-med-tandstodd-bro/amp/ and https://www.internetodontologi.se/protetik/ortodontisk-distalisering-i-kombination-med-tandstodd-bro/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/protetik/ortodontisk-distalisering-i-kombination-med-tandstodd-bro/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/endodonti/rotspricka-ett-diagnostiskt-dilemma/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/endodonti/rotspricka-ett-diagnostiskt-dilemma/amp/ and https://www.internetodontologi.se/endodonti/rotspricka-ett-diagnostiskt-dilemma/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/endodonti/rotspricka-ett-diagnostiskt-dilemma/amp/
+14:04:05	Warning: 	Moved Permanently for https://www.internetodontologi.se/orofacial-medicin/slemhinneforandringar-pigmenterade/amp/
+14:04:05	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.internetodontologi.se/orofacial-medicin/slemhinneforandringar-pigmenterade/amp/ and https://www.internetodontologi.se/orofacial-medicin/slemhinneforandringar-pigmenterade/amp/
+14:04:05	Warning: 	Can not bear crazy server (Moved Permanently) for https://www.internetodontologi.se/orofacial-medicin/slemhinneforandringar-pigmenterade/amp/
+14:04:05	Error: 	"Not Found" (404) at link https://www.internetodontologi.se/signup/-closed=true;path=/ (from https://embed.typeform.com/next/embed.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 41 seconds : 1315 links scanned, 999 files written (216018302 bytes overall) [201176373 bytes received at 589960 bytes/sec], 22307204 bytes transferred using HTTP compression in 582 files, ratio 27%, 72.3 requests per connection
+(20 errors, 858 warnings, 0 messages)
